@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766143799569,
+  "updatedAt": 1766167597924,
   "startDate": "2025-12-12",
   "endDate": "2025-12-19",
   "hiddenRoles": [],
@@ -10,11 +10,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 21,
+      "total_points": 19,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 2,
@@ -38,11 +38,6 @@
         },
         {
           "date": "2025-12-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-12",
           "count": 1,
           "points": 2
         },
@@ -131,11 +126,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 8,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 4,
+          "points": 8
         }
       },
       "daily_activity": [
@@ -156,11 +151,6 @@
         },
         {
           "date": "2025-12-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-12",
           "count": 1,
           "points": 2
         }
@@ -524,26 +514,6 @@
       "daily_activity": [
         {
           "date": "2025-12-13",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "nisshchayarathi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-12",
           "count": 1,
           "points": 2
         }
