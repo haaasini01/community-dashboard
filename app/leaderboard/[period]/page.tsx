@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { Suspense } from "react";
 import LeaderboardView, {
   LeaderboardEntry,
 } from "@/components/Leaderboard/LeaderboardView";
@@ -53,13 +54,15 @@ export default async function Page({
   const data: LeaderboardJSON = JSON.parse(file);
 
   return (
-    <LeaderboardView
-      entries={data.entries}
-      period={period}
-      startDate={new Date(data.startDate)}
-      endDate={new Date(data.endDate)}
-      topByActivity={data.topByActivity}
-      hiddenRoles={data.hiddenRoles}
-    />
+    <Suspense fallback={<div className="p-8">Loading leaderboard…</div>}>
+      <LeaderboardView
+        entries={data.entries}
+        period={period}
+        startDate={new Date(data.startDate)}
+        endDate={new Date(data.endDate)}
+        topByActivity={data.topByActivity}
+        hiddenRoles={data.hiddenRoles}
+      />
+    </Suspense>
   );
 }
