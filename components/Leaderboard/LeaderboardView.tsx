@@ -34,12 +34,11 @@ export type LeaderboardEntry = {
   >;
 
   daily_activity?: Array<{
-    date: string;   // ISO string
+    date: string; // ISO string
     points: number;
     count: number;
   }>;
 };
-
 
 interface LeaderboardViewProps {
   entries: LeaderboardEntry[];
@@ -181,7 +180,9 @@ export default function LeaderboardView({
         <Trophy className="h-6 w-6 text-[#FFD700]" aria-label="1st place" />
       );
     if (rank === 2)
-      return <Medal className="h-6 w-6 text-[#C0C0C0]" aria-label="2nd place" />;
+      return (
+        <Medal className="h-6 w-6 text-[#C0C0C0]" aria-label="2nd place" />
+      );
     if (rank === 3)
       return (
         <Medal className="h-6 w-6 text-[#CD7F32]/70" aria-label="3rd place" />
@@ -244,7 +245,7 @@ export default function LeaderboardView({
                       </Button>
                     )}
                     <Popover>
-                        <PopoverTrigger asChild>
+                      <PopoverTrigger asChild>
                         <Button
                           variant="outline"
                           size="sm"
@@ -259,7 +260,10 @@ export default function LeaderboardView({
                           )}
                         </Button>
                       </PopoverTrigger>
-                      <PopoverContent className="w-64 bg-white dark:bg-[#07170f]" align="end">
+                      <PopoverContent
+                        className="w-64 bg-white dark:bg-[#07170f]"
+                        align="end"
+                      >
                         <div className="space-y-4">
                           <h4 className="font-medium text-sm">
                             Filter by Role
@@ -295,22 +299,21 @@ export default function LeaderboardView({
 
           {/* Period Selector */}
           <div className="flex gap-2 mb-8 border-b">
-            {(['week', 'month', 'year'] as const).map((p) => (
-                <Link
-                  key={p}
-                  href={`/leaderboard/${p}`}
-                  className={cn(
-                    "px-4 py-2 font-medium transition-colors border-b-2 relative outline-none focus-visible:ring-2 focus-visible:ring-[#50B78B]/60 rounded-sm",
-                    period === p
-                      ? "border-[#50B78B] text-[#50B78B] bg-gradient-to-t from-[#50B78B]/12 to-transparent dark:from-[#50B78B]/12"
-                      : "border-transparent text-muted-foreground hover:text-[#50B78B]"
-                  )}
-                >
-                  {periodLabels[p]}
-                </Link>
+            {(["week", "month", "year"] as const).map((p) => (
+              <Link
+                key={p}
+                href={`/leaderboard/${p}`}
+                className={cn(
+                  "px-4 py-2 font-medium transition-colors border-b-2 relative outline-none focus-visible:ring-2 focus-visible:ring-[#50B78B]/60 rounded-sm",
+                  period === p
+                    ? "border-[#50B78B] text-[#50B78B] bg-gradient-to-t from-[#50B78B]/12 to-transparent dark:from-[#50B78B]/12"
+                    : "border-transparent text-muted-foreground hover:text-[#50B78B]"
+                )}
+              >
+                {periodLabels[p]}
+              </Link>
             ))}
           </div>
-
 
           {/* Leaderboard */}
           {filteredEntries.length === 0 ? (
@@ -362,23 +365,25 @@ export default function LeaderboardView({
                         {/* Contributor Info */}
                         <div className="flex-1 min-w-0">
                           <div className="flex items-center gap-2 flex-wrap mb-1">
-                            <Link href={`/${entry.username}`}>
-                              <h3 className="text-lg font-semibold hover:text-[#50B78B] transition-colors">
-                                {entry.name || entry.username}
-                              </h3>
-                            </Link>
+                            <h3 className="text-lg font-semibold">
+                              {entry.name || entry.username}
+                            </h3>
                             {entry.role && (
                               <span className="text-xs px-2 py-1 rounded-full bg-[#50B78B]/10 text-[#50B78B]">
                                 {entry.role}
                               </span>
                             )}
                           </div>
-                          <Link
-                            href={`/${entry.username}`}
+
+                          <a
+                            href={`https://github.com/${entry.username}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="text-sm text-muted-foreground hover:text-[#50B78B] transition-colors"
                           >
                             @{entry.username}
-                          </Link>
+                          </a>
+
                           <div className="mb-3" />
 
                           {/* Activity Breakdown */}
