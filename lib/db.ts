@@ -98,36 +98,36 @@ export async function getRecentActivitiesGroupedByType(
 
   const groups = new Map<string, ActivityGroup>();
 
-  for (const user of data.entries) {
-    for (const [type, meta] of Object.entries(
-  user.activity_breakdown as Record<
-    string,
-    { count: number; points: number }
-  >
-)) {
-  if (!groups.has(type)) {
-    groups.set(type, {
-      activity_definition: type,
-      activity_name: type,
-      activity_description: null,
-      activities: [],
+ for (const user of data.entries) {
+  if (!user.activities) continue;
+
+  for (const act of user.activities) {
+    const type = act.type;
+
+    if (!groups.has(type)) {
+      groups.set(type, {
+        activity_definition: type,
+        activity_name: type,
+        activity_description: null,
+        activities: [],
+      });
+    }
+
+    groups.get(type)!.activities.push({
+      slug: `${user.username}-${type}-${act.occured_at}-${groups.get(type)!.activities.length}`,
+      contributor: user.username,
+      contributor_name: user.name,
+      contributor_avatar_url: user.avatar_url,
+      contributor_role: user.role ?? null,
+      occured_at: act.occured_at,
+      closed_at: act.occured_at,
+      title: act.title ?? null,     // ✅ REAL title
+      link: act.link ?? null,       // ✅ REAL GitHub link
+      points: act.points ?? 0,
     });
   }
-
-  groups.get(type)!.activities.push({
-    slug: `${user.username}-${type}-${valid}`,
-    contributor: user.username,
-    contributor_name: user.name,
-    contributor_avatar_url: user.avatar_url,
-    contributor_role: user.role ?? null,
-    occured_at: new Date(data.updatedAt).toISOString(),
-    closed_at: new Date(data.updatedAt).toISOString(),
-    title: type,
-    points: meta.points,
-  });
 }
 
-  }
 
   // newest first
   for (const group of groups.values()) {

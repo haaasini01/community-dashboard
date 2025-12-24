@@ -316,6 +316,16 @@ function derivePeriod(source: any, days: number, period: string) {
         total_points: total,
         activity_breakdown: breakdown,
         daily_activity: Object.values(daily),
+        activities: acts.map((a) => ({
+          type: a.type,
+          title: a.title,
+          occured_at: a.occured_at,
+          link: a.link,
+          points: a.points,
+          contributor: entry.username,
+          contributor_name: entry.name,
+          contributor_avatar_url: entry.avatar_url,
+        })),
       };
     })
     .filter(Boolean)
@@ -356,6 +366,8 @@ function generateRecentActivities(source: any, days = 14) {
       groups.get(day)!.push({
         username: entry.username,
         name: entry.name,
+        title: act.title,
+        link: act.link,
         avatar_url: entry.avatar_url,
         points: act.points,
       });
