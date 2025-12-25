@@ -269,33 +269,38 @@
     {
       "username": "Atharva7126",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 25,
+      "total_points": 18,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 5,
+          "points": 10
         },
         "PR merged": {
-          "count": 3,
-          "points": 15
+          "count": 1,
+          "points": 5
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 3,
+          "points": 3
         }
       },
       "daily_activity": [
         {
-          "date": "2025-12-18",
-          "count": 2,
-          "points": 3
+          "date": "2025-12-15",
+          "count": 1,
+          "points": 2
         },
         {
-          "date": "2025-12-13",
+          "date": "2025-12-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-06",
           "count": 2,
-          "points": 4
+          "points": 3
         },
         {
           "date": "2025-12-05",
@@ -303,22 +308,22 @@
           "points": 2
         },
         {
-          "date": "2025-12-19",
+          "date": "2025-12-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-12",
           "count": 1,
           "points": 5
         },
         {
-          "date": "2025-12-16",
+          "date": "2025-12-13",
           "count": 1,
-          "points": 5
+          "points": 1
         },
         {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-06",
+          "date": "2025-12-07",
           "count": 1,
           "points": 1
         }
@@ -326,93 +331,93 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
-          "occured_at": "2025-12-18T16:19:17Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "occured_at": "2025-12-15T13:35:14Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
           "points": 2,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "PR opened",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "occured_at": "2025-12-13T17:45:35Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
+          "title": "Fix - Add missing contention error image in Chapter 8",
+          "occured_at": "2025-12-10T22:03:33Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
           "points": 2,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "PR opened",
-          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
-          "occured_at": "2025-12-13T17:28:55Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
+          "title": "Fix missing project_url error by adding shallow routes for projects",
+          "occured_at": "2025-12-06T18:13:43Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6439",
           "points": 2,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "PR opened",
-          "title": "Fix - add id to home features section for better accessibility",
-          "occured_at": "2025-12-05T18:10:09Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
+          "title": "Fix pagination ArgumentError when page parameter is empty #6426",
+          "occured_at": "2025-12-05T11:54:17Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6429",
           "points": 2,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix - notification count alignment and dropdown overflow",
+          "occured_at": "2025-12-04T17:31:50Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6424",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "PR merged",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "occured_at": "2025-12-19T04:14:04Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
+          "title": "Fix - Add missing contention error image in Chapter 8",
+          "occured_at": "2025-12-12T08:24:30Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
           "points": 5,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
-          "occured_at": "2025-12-16T11:39:43Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
-          "points": 5,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - add id to home features section for better accessibility",
-          "occured_at": "2025-12-09T13:52:20Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
-          "points": 5,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "Issue opened",
-          "title": "Bug - Fix video title and YouTube UI overlap",
-          "occured_at": "2025-12-18T14:29:42Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/466",
+          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
+          "occured_at": "2025-12-13T20:21:33Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
           "points": 1,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         },
         {
           "type": "Issue opened",
-          "title": "Feature - Replace system alert for Circuit Name entry with a themed modal",
-          "occured_at": "2025-12-06T07:26:52Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6436",
+          "title": "Title - Image not visible in Chapter 8 → Understanding Error Messages (Contention Error 1 and 0)",
+          "occured_at": "2025-12-07T18:46:05Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/446",
           "points": 1,
-          "contributor": "Atharva7126",
+          "contributor": "naman79820",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Improve notification badge UI for better readability and consistency",
+          "occured_at": "2025-12-06T16:49:53Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6438",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         }
       ]
     },

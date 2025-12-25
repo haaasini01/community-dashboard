@@ -1278,31 +1278,40 @@
       ]
     },
     {
-      "username": "salmoneatenbybear",
+      "username": "ghanshyam2005singh",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
       "role": "Contributor",
-      "total_points": 14,
+      "total_points": 19,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 2,
           "points": 10
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
         }
       },
       "daily_activity": [
+        {
+          "date": "2025-12-09",
+          "count": 2,
+          "points": 7
+        },
         {
           "date": "2025-12-07",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2025-12-05",
-          "count": 2,
-          "points": 7
+          "date": "2025-12-24",
+          "count": 3,
+          "points": 5
         },
         {
           "date": "2025-12-08",
@@ -1313,43 +1322,73 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "chore - About page members restructuring",
-          "occured_at": "2025-12-07T13:56:17Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6444",
+          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
+          "occured_at": "2025-12-09T11:40:00Z",
+          "link": "https://github.com/CircuitVerse/Blog/pull/256",
           "points": 2,
-          "contributor": "salmoneatenbybear",
+          "contributor": "ghanshyam2005singh",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
         },
         {
           "type": "PR opened",
-          "title": "chore - update about page with new core team members and remove old issue triaging team.",
-          "occured_at": "2025-12-05T11:26:38Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6428",
+          "title": "docs - update README with Docusaurus setup instructions (#442)",
+          "occured_at": "2025-12-07T07:38:38Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
           "points": 2,
-          "contributor": "salmoneatenbybear",
+          "contributor": "ghanshyam2005singh",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "feat - add hover functionality to Getting Started dropdown",
+          "occured_at": "2025-12-24T11:52:20Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6502",
+          "points": 2,
+          "contributor": "ghanshyam2005singh",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix - Update form control focus border and add green box-shadow",
+          "occured_at": "2025-12-24T08:52:11Z",
+          "link": "https://github.com/CircuitVerse/Blog/pull/258",
+          "points": 2,
+          "contributor": "ghanshyam2005singh",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
         },
         {
           "type": "PR merged",
-          "title": "chore - About page members restructuring",
-          "occured_at": "2025-12-08T03:43:45Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6444",
+          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
+          "occured_at": "2025-12-09T13:53:39Z",
+          "link": "https://github.com/CircuitVerse/Blog/pull/256",
           "points": 5,
-          "contributor": "salmoneatenbybear",
+          "contributor": "ghanshyam2005singh",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
         },
         {
           "type": "PR merged",
-          "title": "chore - update about page with new core team members and remove old issue triaging team.",
-          "occured_at": "2025-12-05T13:12:16Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6428",
+          "title": "docs - update README with Docusaurus setup instructions (#442)",
+          "occured_at": "2025-12-08T03:46:39Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
           "points": 5,
-          "contributor": "salmoneatenbybear",
+          "contributor": "ghanshyam2005singh",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Add hover-to-open functionality for \"Getting Started\" navbar dropdown",
+          "occured_at": "2025-12-24T11:44:46Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6501",
+          "points": 1,
+          "contributor": "ghanshyam2005singh",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
         }
       ]
     },
