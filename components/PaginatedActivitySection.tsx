@@ -47,27 +47,15 @@ export function PaginatedActivitySection({
 
   const getPageNumbers = () => {
     const pages: (number | string)[] = [];
-    const maxVisible = 5;
 
-    if (totalPages <= maxVisible) {
+    if (totalPages <= 4) {
+      // Show all pages if 4 or fewer
       for (let i = 1; i <= totalPages; i++) pages.push(i);
     } else {
-      pages.push(1);
-
-      if (currentPage <= 3) {
-        for (let i = 2; i <= 4; i++) pages.push(i);
-        pages.push("...");
-        pages.push(totalPages);
-      } else if (currentPage >= totalPages - 2) {
-        pages.push("...");
-        for (let i = totalPages - 3; i <= totalPages; i++) pages.push(i);
-      } else {
-        pages.push("...");
-        for (let i = currentPage - 1; i <= currentPage + 1; i++)
-          pages.push(i);
-        pages.push("...");
-        pages.push(totalPages);
-      }
+      // Show: 1 2 3 ... last
+      pages.push(1, 2, 3);
+      pages.push("...");
+      pages.push(totalPages);
     }
 
     return pages;
@@ -156,76 +144,66 @@ export function PaginatedActivitySection({
 
         {/* Pagination Controls */}
         {totalPages > 1 && (
-          <div className="bg-zinc-50 dark:bg-white/5 px-4 py-4 border-t">
-            <div className="flex flex-col items-center gap-2">
-              <div className="flex items-center gap-1 sm:gap-2">
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  onClick={goToPrevious}
-                  disabled={currentPage === 1}
-                  className="h-8 px-2 sm:px-3 hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] transition-colors disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:text-inherit disabled:cursor-not-allowed cursor-pointer"
-                >
-                  <ChevronLeft className="h-4 w-4" />
-                  <span className="hidden sm:inline">Previous</span>
-                </Button>
+          <div className="bg-zinc-50 dark:bg-white/5 px-4 py-3 border-t">
+            <div className="flex items-center justify-center gap-1 sm:gap-2">
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={goToPrevious}
+                disabled={currentPage === 1}
+                className="h-8 px-2 sm:px-3 hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] transition-colors disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:text-inherit disabled:cursor-not-allowed cursor-pointer"
+              >
+                <ChevronLeft className="h-4 w-4" />
+                <span className="hidden sm:inline">Previous</span>
+              </Button>
 
-                <div className="flex items-center gap-1">
-                  {getPageNumbers().map((page, index) => {
-                    if (page === "...") {
-                      return (
-                        <span
-                          key={`ellipsis-${index}`}
-                          className="px-2 text-xs text-zinc-400"
-                        >
-                          ...
-                        </span>
-                      );
-                    }
-
-                    const pageNum = page as number;
+              <div className="flex items-center gap-1">
+                {getPageNumbers().map((page, index) => {
+                  if (page === "...") {
                     return (
-                      <Button
-                        key={pageNum}
-                        variant={
-                          currentPage === pageNum ? "default" : "ghost"
-                        }
-                        size="sm"
-                        onClick={() => goToPage(pageNum)}
-                        className={`h-8 w-8 p-0 transition-all cursor-pointer ${
-                          currentPage === pageNum
-                            ? "bg-[#50B78B] hover:bg-[#50B78B]/90 text-white shadow-sm"
-                            : "hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] hover:border-[#50B78B]/20 hover:shadow-sm"
-                        }`}
+                      <span
+                        key={`ellipsis-${index}`}
+                        className="px-2 text-xs text-zinc-400"
                       >
-                        {pageNum}
-                      </Button>
+                        ...
+                      </span>
                     );
-                  })}
-                </div>
+                  }
 
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  onClick={goToNext}
-                  disabled={currentPage === totalPages}
-                  className="h-8 px-2 sm:px-3 hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] transition-colors disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:text-inherit disabled:cursor-not-allowed cursor-pointer"
-                >
-                  <span className="hidden sm:inline">Next</span>
-                  <ChevronRight className="h-4 w-4" />
-                </Button>
+                  const pageNum = page as number;
+                  return (
+                    <Button
+                      key={pageNum}
+                      variant={
+                        currentPage === pageNum ? "default" : "ghost"
+                      }
+                      size="sm"
+                      onClick={() => goToPage(pageNum)}
+                      className={`h-8 w-8 p-0 transition-all cursor-pointer ${
+                        currentPage === pageNum
+                          ? "bg-[#50B78B] hover:bg-[#50B78B]/90 text-white shadow-sm"
+                          : "hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] hover:border-[#50B78B]/20 hover:shadow-sm"
+                      }`}
+                    >
+                      {pageNum}
+                    </Button>
+                  );
+                })}
               </div>
 
-              <div className="text-xs text-zinc-500 hidden sm:block mt-2 mb-[-8]">
-                Page {currentPage} of {totalPages}
-              </div>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={goToNext}
+                disabled={currentPage === totalPages}
+                className="h-8 px-2 sm:px-3 hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] transition-colors disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:text-inherit disabled:cursor-not-allowed cursor-pointer"
+              >
+                <span className="hidden sm:inline">Next</span>
+                <ChevronRight className="h-4 w-4" />
+              </Button>
             </div>
           </div>
         )}
-
-        <div className="bg-zinc-50 dark:bg-white/5 px-4 py-2 text-[10px] text-center text-zinc-400 uppercase tracking-widest">
-          Activity Stream
-        </div>
       </div>
     </div>
   );
