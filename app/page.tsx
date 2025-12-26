@@ -37,7 +37,7 @@ export default async function Home() {
   const w4 = totalCount(month) - totalCount(week3);
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-black transition-colors">
+    <div className="min-h-screen transition-colors">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10 space-y-14">
         <section className="text-center space-y-4">
           <h1 className="text-5xl sm:text-5xl lg:text-7xl font-bold tracking-tight bg-clip-text text-transparent bg-linear-to-r from-[#50B78B] via-[#60C79B] to-[#70D7AB]
