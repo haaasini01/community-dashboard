@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766902966251,
+  "updatedAt": 1766924825098,
   "startDate": "2025-12-14",
   "endDate": "2025-12-28",
   "hiddenRoles": [],
@@ -61,7 +61,7 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
+          "title": "Fix - adjust YouTube video iframe On Chapter 3 for responsive width and correct title",
           "occured_at": "2025-12-18T16:19:17Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
           "points": 2,
@@ -437,166 +437,31 @@
       ]
     },
     {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 24,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-12-15",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-14",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-16T13:28:07Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - fix typos and grammar errors across documentation",
-          "occured_at": "2025-12-15T09:46:12Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "occured_at": "2025-12-14T08:02:40Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-25T08:49:36Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typos and grammar errors across documentation",
-          "occured_at": "2025-12-16T07:33:22Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "occured_at": "2025-12-24T17:09:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "fix - typos and grammar errors across documentation",
-          "occured_at": "2025-12-16T13:23:29Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/464",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - typos and grammar errors across documentation files",
-          "occured_at": "2025-12-15T09:22:14Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6471",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Bug - Fix 'scoll' typo in keyboard shortcuts documentation",
-          "occured_at": "2025-12-14T07:57:55Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/458",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        }
-      ]
-    },
-    {
       "username": "Me-Priyank",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 27,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 5,
+          "points": 10
         },
         "PR merged": {
           "count": 3,
           "points": 15
         },
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2025-12-26",
           "count": 2,
@@ -614,6 +479,16 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "title": "UI bug fix",
+          "occured_at": "2025-12-28T11:04:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
+          "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
         {
           "type": "PR opened",
           "title": "pagination UI enhancement, fix #17",
@@ -686,6 +561,16 @@
         },
         {
           "type": "Issue opened",
+          "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
+          "occured_at": "2025-12-28T10:39:09Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
           "occured_at": "2025-12-24T18:06:26Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
@@ -697,15 +582,130 @@
       ]
     },
     {
-      "username": "naman79820",
+      "username": "senutpal",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 14,
+      "total_points": 21,
       "activity_breakdown": {
         "PR opened": {
           "count": 2,
           "points": 4
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-12-15",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-16T13:28:07Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "docs - fix typos and grammar errors across documentation",
+          "occured_at": "2025-12-15T09:46:12Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-25T08:49:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors across documentation",
+          "occured_at": "2025-12-16T07:33:22Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
+          "occured_at": "2025-12-24T17:09:02Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "fix - typos and grammar errors across documentation",
+          "occured_at": "2025-12-16T13:23:29Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/464",
+          "points": 1,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - typos and grammar errors across documentation files",
+          "occured_at": "2025-12-15T09:22:14Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6471",
+          "points": 1,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        }
+      ]
+    },
+    {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 16,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 1,
@@ -719,6 +719,11 @@
       "daily_activity": [
         {
           "date": "2025-12-15",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-28",
           "count": 1,
           "points": 2
         },
@@ -744,6 +749,16 @@
           "title": "Fix - Make iframes responsive below 650px using global CSS media query",
           "occured_at": "2025-12-15T13:35:14Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "occured_at": "2025-12-28T11:21:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
           "points": 2,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -2103,6 +2118,53 @@
       ]
     },
     {
+      "username": "ViRUS-0-0",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "occured_at": "2025-12-28T10:26:35Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix createPopper error by including Popper.js dependency",
+          "occured_at": "2025-12-27T12:47:01Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        }
+      ]
+    },
+    {
       "username": "themradul07",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
@@ -2388,9 +2450,9 @@
       ]
     },
     {
-      "username": "ViRUS-0-0",
+      "username": "RiyaS905",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -2401,7 +2463,7 @@
       },
       "daily_activity": [
         {
-          "date": "2025-12-27",
+          "date": "2025-12-28",
           "count": 1,
           "points": 2
         }
@@ -2409,13 +2471,13 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix createPopper error by including Popper.js dependency",
-          "occured_at": "2025-12-27T12:47:01Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
+          "title": "Fix UI alignment for grading scale and restriction checkboxes",
+          "occured_at": "2025-12-28T08:34:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6515",
           "points": 2,
-          "contributor": "ViRUS-0-0",
+          "contributor": "RiyaS905",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4"
         }
       ]
     },

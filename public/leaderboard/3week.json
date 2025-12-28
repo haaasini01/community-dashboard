@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1766902966253,
+  "updatedAt": 1766924825100,
   "startDate": "2025-12-07",
   "endDate": "2025-12-28",
   "hiddenRoles": [],
@@ -71,7 +71,7 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
+          "title": "Fix - adjust YouTube video iframe On Chapter 3 for responsive width and correct title",
           "occured_at": "2025-12-18T16:19:17Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
           "points": 2,
@@ -741,22 +741,27 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 27,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 5,
+          "points": 10
         },
         "PR merged": {
           "count": 3,
           "points": 15
         },
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2025-12-26",
           "count": 2,
@@ -774,6 +779,16 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "title": "UI bug fix",
+          "occured_at": "2025-12-28T11:04:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
+          "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
         {
           "type": "PR opened",
           "title": "pagination UI enhancement, fix #17",
@@ -846,6 +861,16 @@
         },
         {
           "type": "Issue opened",
+          "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
+          "occured_at": "2025-12-28T10:39:09Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
           "occured_at": "2025-12-24T18:06:26Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
@@ -861,11 +886,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 23,
+      "total_points": 25,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 2,
@@ -884,6 +909,11 @@
         },
         {
           "date": "2025-12-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-28",
           "count": 1,
           "points": 2
         },
@@ -934,6 +964,16 @@
           "title": "Fix - Add missing contention error image in Chapter 8",
           "occured_at": "2025-12-10T22:03:33Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "occured_at": "2025-12-28T11:21:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
           "points": 2,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -1046,11 +1086,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
       "role": "Contributor",
-      "total_points": 19,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 2,
@@ -1066,11 +1106,6 @@
           "date": "2025-12-09",
           "count": 2,
           "points": 7
-        },
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 2
         },
         {
           "date": "2025-12-24",
@@ -1089,16 +1124,6 @@
           "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
           "occured_at": "2025-12-09T11:40:00Z",
           "link": "https://github.com/CircuitVerse/Blog/pull/256",
-          "points": 2,
-          "contributor": "ghanshyam2005singh",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - update README with Docusaurus setup instructions (#442)",
-          "occured_at": "2025-12-07T07:38:38Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
           "points": 2,
           "contributor": "ghanshyam2005singh",
           "contributor_name": null,
@@ -1278,7 +1303,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
       "role": "Contributor",
-      "total_points": 16,
+      "total_points": 15,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
@@ -1289,8 +1314,8 @@
           "points": 5
         },
         "Issue opened": {
-          "count": 3,
-          "points": 3
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
@@ -1313,11 +1338,6 @@
           "date": "2025-12-25",
           "count": 2,
           "points": 7
-        },
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
@@ -1386,16 +1406,6 @@
           "title": "Docs UI - Content not responsive on mobile view .",
           "occured_at": "2025-12-11T00:51:11Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/449",
-          "points": 1,
-          "contributor": "Radhikaa-chauhan",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Docs UI - Content not responsive on mobile view (large empty margins).",
-          "occured_at": "2025-12-07T09:00:09Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6442",
           "points": 1,
           "contributor": "Radhikaa-chauhan",
           "contributor_name": null,
@@ -2038,112 +2048,6 @@
       ]
     },
     {
-      "username": "yashveer-1",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-22",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
-          "count": 2,
-          "points": 2
-        },
-        {
-          "date": "2025-12-26",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Add documentation for simulator circuit data flow",
-          "occured_at": "2025-12-17T09:01:35Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
-          "points": 2,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
-          "occured_at": "2025-12-22T12:41:11Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
-          "points": 1,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Wire routing parity issue - cv-frontend-vue does not support orthogonal (zig-zag) wires",
-          "occured_at": "2025-12-19T10:02:40Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/696",
-          "points": 1,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "TestBenchPanel.vue UI cleanup for spacing & consistency",
-          "occured_at": "2025-12-07T09:23:58Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/685",
-          "points": 1,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "UI Cleanup - Improve TestBench Panel (Spacing, Header, Inline Styles)",
-          "occured_at": "2025-12-07T08:48:20Z",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/448",
-          "points": 1,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Canvas does not fully redraw after resize (DevTools toggle) in v0 simulator",
-          "occured_at": "2025-12-26T11:52:45Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/700",
-          "points": 1,
-          "contributor": "yashveer-1",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-        }
-      ]
-    },
-    {
       "username": "nishant530",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
@@ -2324,6 +2228,87 @@
           "contributor": "SouparnaChatterjee",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4"
+        }
+      ]
+    },
+    {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-22",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-19",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Add documentation for simulator circuit data flow",
+          "occured_at": "2025-12-17T09:01:35Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
+          "points": 2,
+          "contributor": "yashveer-1",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
+          "occured_at": "2025-12-22T12:41:11Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
+          "points": 1,
+          "contributor": "yashveer-1",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Wire routing parity issue - cv-frontend-vue does not support orthogonal (zig-zag) wires",
+          "occured_at": "2025-12-19T10:02:40Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/696",
+          "points": 1,
+          "contributor": "yashveer-1",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Canvas does not fully redraw after resize (DevTools toggle) in v0 simulator",
+          "occured_at": "2025-12-26T11:52:45Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/700",
+          "points": 1,
+          "contributor": "yashveer-1",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
         }
       ]
     },
@@ -2646,6 +2631,53 @@
           "contributor": "nisshchayarathi",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4"
+        }
+      ]
+    },
+    {
+      "username": "ViRUS-0-0",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "occured_at": "2025-12-28T10:26:35Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix createPopper error by including Popper.js dependency",
+          "occured_at": "2025-12-27T12:47:01Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
         }
       ]
     },
@@ -3205,9 +3237,9 @@
       ]
     },
     {
-      "username": "ViRUS-0-0",
+      "username": "RiyaS905",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -3218,7 +3250,7 @@
       },
       "daily_activity": [
         {
-          "date": "2025-12-27",
+          "date": "2025-12-28",
           "count": 1,
           "points": 2
         }
@@ -3226,13 +3258,13 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix createPopper error by including Popper.js dependency",
-          "occured_at": "2025-12-27T12:47:01Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
+          "title": "Fix UI alignment for grading scale and restriction checkboxes",
+          "occured_at": "2025-12-28T08:34:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6515",
           "points": 2,
-          "contributor": "ViRUS-0-0",
+          "contributor": "RiyaS905",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4"
         }
       ]
     },

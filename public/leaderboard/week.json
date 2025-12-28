@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766902966249,
+  "updatedAt": 1766924825096,
   "startDate": "2025-12-21",
   "endDate": "2025-12-28",
   "hiddenRoles": [],
@@ -386,22 +386,27 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 27,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 5,
+          "points": 10
         },
         "PR merged": {
           "count": 3,
           "points": 15
         },
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2025-12-26",
           "count": 2,
@@ -419,6 +424,16 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "title": "UI bug fix",
+          "occured_at": "2025-12-28T11:04:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
+          "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
         {
           "type": "PR opened",
           "title": "pagination UI enhancement, fix #17",
@@ -491,6 +506,16 @@
         },
         {
           "type": "Issue opened",
+          "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
+          "occured_at": "2025-12-28T10:39:09Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
           "occured_at": "2025-12-24T18:06:26Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
@@ -498,6 +523,131 @@
           "contributor": "Me-Priyank",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        }
+      ]
+    },
+    {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 5,
+          "points": 10
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "occured_at": "2025-12-28T11:21:21Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "layout bug",
+          "occured_at": "2025-12-25T18:49:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "occured_at": "2025-12-25T19:21:27Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 5,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
+          "occured_at": "2025-12-27T16:27:46Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "GitHub icon exists in navbar but is not visible",
+          "occured_at": "2025-12-26T17:44:29Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
+          "occured_at": "2025-12-25T19:44:47Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Add hover effect to homepage pagination buttons",
+          "occured_at": "2025-12-25T15:36:48Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
+          "occured_at": "2025-12-25T13:28:15Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         }
       ]
     },
@@ -569,116 +719,6 @@
           "contributor": "madaankartik",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
-        }
-      ]
-    },
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 12,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-25",
-          "count": 5,
-          "points": 10
-        },
-        {
-          "date": "2025-12-27",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-26",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "layout bug",
-          "occured_at": "2025-12-25T18:49:24Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
-          "points": 2,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "occured_at": "2025-12-25T19:21:27Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
-          "points": 5,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
-          "occured_at": "2025-12-27T16:27:46Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "GitHub icon exists in navbar but is not visible",
-          "occured_at": "2025-12-26T17:44:29Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
-          "occured_at": "2025-12-25T19:44:47Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Add hover effect to homepage pagination buttons",
-          "occured_at": "2025-12-25T15:36:48Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
-          "occured_at": "2025-12-25T13:28:15Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         }
       ]
     },
@@ -1422,6 +1462,53 @@
       ]
     },
     {
+      "username": "ViRUS-0-0",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "occured_at": "2025-12-28T10:26:35Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix createPopper error by including Popper.js dependency",
+          "occured_at": "2025-12-27T12:47:01Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
+          "points": 2,
+          "contributor": "ViRUS-0-0",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        }
+      ]
+    },
+    {
       "username": "themradul07",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
@@ -1465,52 +1552,6 @@
           "contributor": "themradul07",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Varshad-Potle",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-21",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix - Resolve user dropdown functionality (ref #6495)",
-          "occured_at": "2025-12-21T08:15:12Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6496",
-          "points": 2,
-          "contributor": "Varshad-Potle",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - User Dropdown in Navbar fails to close on second click",
-          "occured_at": "2025-12-21T07:15:53Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6495",
-          "points": 1,
-          "contributor": "Varshad-Potle",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
         }
       ]
     },
@@ -1562,9 +1603,9 @@
       ]
     },
     {
-      "username": "Harruta",
+      "username": "RiyaS905",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -1575,7 +1616,7 @@
       },
       "daily_activity": [
         {
-          "date": "2025-12-21",
+          "date": "2025-12-28",
           "count": 1,
           "points": 2
         }
@@ -1583,77 +1624,13 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix - Improved login form layout by separating reCAPTCHA widget",
-          "occured_at": "2025-12-21T07:14:07Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
+          "title": "Fix UI alignment for grading scale and restriction checkboxes",
+          "occured_at": "2025-12-28T08:34:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6515",
           "points": 2,
-          "contributor": "Harruta",
+          "contributor": "RiyaS905",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4"
-        }
-      ]
-    },
-    {
-      "username": "manash213cyber",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-21",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix doc typos",
-          "occured_at": "2025-12-21T07:02:45Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/468",
-          "points": 2,
-          "contributor": "manash213cyber",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4"
-        }
-      ]
-    },
-    {
-      "username": "ViRUS-0-0",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-27",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix createPopper error by including Popper.js dependency",
-          "occured_at": "2025-12-27T12:47:01Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
-          "points": 2,
-          "contributor": "ViRUS-0-0",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4"
         }
       ]
     },

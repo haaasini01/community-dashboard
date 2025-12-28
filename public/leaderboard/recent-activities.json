@@ -1,9 +1,17 @@
 {
-  "updatedAt": 1766902966268,
+  "updatedAt": 1766924825115,
   "groups": [
     {
       "date": "2025-12-28",
       "items": [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
         {
           "username": "Git-HimanshuRathi",
           "name": null,
@@ -13,11 +21,43 @@
           "points": 2
         },
         {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "UI bug fix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "ViRUS-0-0",
+          "name": null,
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 2
+        },
+        {
           "username": "themradul07",
           "name": null,
           "title": "Issue 34 - Added Dropdown Filters",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/39",
           "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
+          "points": 2
+        },
+        {
+          "username": "RiyaS905",
+          "name": null,
+          "title": "Fix UI alignment for grading scale and restriction checkboxes",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6515",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
           "points": 2
         }
       ]
@@ -122,19 +162,19 @@
           "points": 1
         },
         {
-          "username": "themradul07",
-          "name": null,
-          "title": "Issue #34 - Added filters",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/35",
-          "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
-          "points": 2
-        },
-        {
           "username": "ViRUS-0-0",
           "name": null,
           "title": "Fix createPopper error by including Popper.js dependency",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
           "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 2
+        },
+        {
+          "username": "themradul07",
+          "name": null,
+          "title": "Issue #34 - Added filters",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/35",
+          "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
           "points": 2
         }
       ]
@@ -937,7 +977,7 @@
         {
           "username": "Atharva7126",
           "name": null,
-          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
+          "title": "Fix - adjust YouTube video iframe On Chapter 3 for responsive width and correct title",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
           "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 2
