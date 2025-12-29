@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1767011468489,
+  "updatedAt": 1767032596244,
   "startDate": "2025-11-29",
   "endDate": "2025-12-29",
   "hiddenRoles": [],
@@ -11,11 +11,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 64,
+      "total_points": 66,
       "activity_breakdown": {
         "PR opened": {
-          "count": 10,
-          "points": 20
+          "count": 11,
+          "points": 22
         },
         "PR merged": {
           "count": 7,
@@ -46,6 +46,11 @@
           "date": "2025-11-30",
           "count": 3,
           "points": 5
+        },
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2025-12-26",
@@ -139,6 +144,16 @@
           "title": "Fix - Embedded YouTube tutorial video for Issue #418",
           "occured_at": "2025-11-30T13:08:02Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/439",
+          "points": 2,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Bug - Fixed graph logic to show actual data",
+          "occured_at": "2025-12-29T13:16:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/44",
           "points": 2,
           "contributor": "Atharva7126",
           "contributor_name": null,
@@ -351,7 +366,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 52,
+      "total_points": 50,
       "activity_breakdown": {
         "PR opened": {
           "count": 12,
@@ -362,8 +377,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 13,
-          "points": 13
+          "count": 11,
+          "points": 11
         }
       },
       "daily_activity": [
@@ -431,11 +446,6 @@
           "date": "2025-12-07",
           "count": 1,
           "points": 1
-        },
-        {
-          "date": "2025-11-29",
-          "count": 2,
-          "points": 2
         },
         {
           "date": "2025-12-27",
@@ -651,26 +661,6 @@
         },
         {
           "type": "Issue opened",
-          "title": "🐞 Bug - Logo Overlaps Text and Footer Year Still Shows 2024 on Blog Page",
-          "occured_at": "2025-11-29T18:07:14Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6370",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Illustration on Blog Page Overflows / Not Responsive at ~1200px Width",
-          "occured_at": "2025-11-29T17:52:49Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6369",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
           "title": "Netlify CI fails",
           "occured_at": "2025-12-28T18:01:10Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
@@ -736,11 +726,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 45,
+      "total_points": 47,
       "activity_breakdown": {
         "PR opened": {
-          "count": 10,
-          "points": 20
+          "count": 11,
+          "points": 22
         },
         "PR merged": {
           "count": 4,
@@ -791,6 +781,11 @@
           "date": "2025-12-07",
           "count": 2,
           "points": 3
+        },
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2025-12-25",
@@ -909,6 +904,16 @@
           "title": "fix - correct typo in system requirements filename and references (#444)",
           "occured_at": "2025-12-07T17:35:27Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/445",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "refactor - migrate restrictedElementDiv.js to TypeScript",
+          "occured_at": "2025-12-29T14:58:57Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/705",
           "points": 2,
           "contributor": "senutpal",
           "contributor_name": null,
@@ -1498,6 +1503,146 @@
           "contributor": "ghanshyam2005singh",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
+        }
+      ]
+    },
+    {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 21,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-29",
+          "count": 4,
+          "points": 10
+        },
+        {
+          "date": "2025-12-23",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix typos errors across code and docs",
+          "occured_at": "2025-12-21T14:32:55Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+          "points": 2,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix typos, spelling errors, and grammar across simulator, docs, and locales",
+          "occured_at": "2025-12-16T10:34:08Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6475",
+          "points": 2,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix(ui) - improve leaderboard search layout",
+          "occured_at": "2025-12-29T17:49:01Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
+          "points": 2,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix - grammar and spelling mistakes in comments and tutorials",
+          "occured_at": "2025-12-29T14:48:14Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6523",
+          "points": 2,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "Fix typos errors across code and docs",
+          "occured_at": "2025-12-23T08:29:38Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+          "points": 5,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "fix(ui) - improve leaderboard search layout",
+          "occured_at": "2025-12-29T18:08:02Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
+          "points": 5,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Fix typos and localization errors in simulator, docs, and config files",
+          "occured_at": "2025-12-16T09:49:20Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6474",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Grammar and Spelling Issues in Comments and Tutorial Text",
+          "occured_at": "2025-12-29T14:30:52Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6521",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
+          "occured_at": "2025-12-28T13:12:22Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
         }
       ]
     },
@@ -2292,9 +2437,9 @@
       ]
     },
     {
-      "username": "himanshujays29",
+      "username": "ShashwatXD",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
       "role": "Contributor",
       "total_points": 11,
       "activity_breakdown": {
@@ -2313,76 +2458,71 @@
       },
       "daily_activity": [
         {
-          "date": "2025-12-21",
+          "date": "2025-12-19",
+          "count": 3,
+          "points": 4
+        },
+        {
+          "date": "2025-12-29",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2025-12-16",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-23",
+          "date": "2025-12-25",
           "count": 1,
           "points": 5
-        },
-        {
-          "date": "2025-12-28",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "title": "Fix typos errors across code and docs",
-          "occured_at": "2025-12-21T14:32:55Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
+          "occured_at": "2025-12-19T19:28:20Z",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
           "points": 2,
-          "contributor": "himanshujays29",
+          "contributor": "ShashwatXD",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         },
         {
           "type": "PR opened",
-          "title": "Fix typos, spelling errors, and grammar across simulator, docs, and locales",
-          "occured_at": "2025-12-16T10:34:08Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6475",
+          "title": "fix(simulator) - syncing webview and native",
+          "occured_at": "2025-12-29T16:07:01Z",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/456",
           "points": 2,
-          "contributor": "himanshujays29",
+          "contributor": "ShashwatXD",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         },
         {
           "type": "PR merged",
-          "title": "Fix typos errors across code and docs",
-          "occured_at": "2025-12-23T08:29:38Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
+          "occured_at": "2025-12-25T13:32:43Z",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
           "points": 5,
-          "contributor": "himanshujays29",
+          "contributor": "ShashwatXD",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         },
         {
           "type": "Issue opened",
-          "title": "🐞 Bug - Fix typos and localization errors in simulator, docs, and config files",
-          "occured_at": "2025-12-16T09:49:20Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6474",
+          "title": "FEATURE REQUEST Add invite acceptance flow in app",
+          "occured_at": "2025-12-19T19:57:36Z",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/455",
           "points": 1,
-          "contributor": "himanshujays29",
+          "contributor": "ShashwatXD",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         },
         {
           "type": "Issue opened",
-          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
-          "occured_at": "2025-12-28T13:12:22Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "title": "Add pull to refresh functionality",
+          "occured_at": "2025-12-19T19:24:23Z",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/453",
           "points": 1,
-          "contributor": "himanshujays29",
+          "contributor": "ShashwatXD",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         }
       ]
     },
@@ -2458,81 +2598,6 @@
           "contributor": "ShinichiShi",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4"
-        }
-      ]
-    },
-    {
-      "username": "ShashwatXD",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-      "role": "Contributor",
-      "total_points": 9,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
-          "occured_at": "2025-12-19T19:28:20Z",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
-          "points": 2,
-          "contributor": "ShashwatXD",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
-          "occured_at": "2025-12-25T13:32:43Z",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
-          "points": 5,
-          "contributor": "ShashwatXD",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "FEATURE REQUEST Add invite acceptance flow in app",
-          "occured_at": "2025-12-19T19:57:36Z",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/455",
-          "points": 1,
-          "contributor": "ShashwatXD",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Add pull to refresh functionality",
-          "occured_at": "2025-12-19T19:24:23Z",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/453",
-          "points": 1,
-          "contributor": "ShashwatXD",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4"
         }
       ]
     },
@@ -3557,6 +3622,52 @@
       ]
     },
     {
+      "username": "KARDT89",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "issue-6522/fix-navbar-logo-alignment",
+          "occured_at": "2025-12-29T15:03:51Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6524",
+          "points": 2,
+          "contributor": "KARDT89",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug Navbar logo appears vertically misaligned on desktop and tablet viewports",
+          "occured_at": "2025-12-29T14:47:07Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6522",
+          "points": 1,
+          "contributor": "KARDT89",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4"
+        }
+      ]
+    },
+    {
       "username": "gautamsidhwani29",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
@@ -3792,7 +3903,7 @@
       ]
     },
     {
-      "username": "Harruta",
+      "username": "sengmonkham",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
       "role": "Contributor",
@@ -3817,7 +3928,7 @@
           "occured_at": "2025-12-21T07:14:07Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
           "points": 2,
-          "contributor": "Harruta",
+          "contributor": "sengmonkham",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4"
         }
@@ -4268,6 +4379,38 @@
           "contributor": "nikhil-yn-aix",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/98247758?v=4"
+        }
+      ]
+    },
+    {
+      "username": "riazation42",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/111638785?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix - Use modern beforeunload API to prevent blocked alert dialog (#6519)",
+          "occured_at": "2025-12-29T15:41:58Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6525",
+          "points": 2,
+          "contributor": "riazation42",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/111638785?v=4"
         }
       ]
     },

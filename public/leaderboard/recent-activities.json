@@ -1,9 +1,81 @@
 {
-  "updatedAt": 1767011468502,
+  "updatedAt": 1767032596257,
   "groups": [
     {
       "date": "2025-12-29",
       "items": [
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - Fixed graph logic to show actual data",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/44",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "refactor - migrate restrictedElementDiv.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/705",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "fix(ui) - improve leaderboard search layout",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Fix - grammar and spelling mistakes in comments and tutorials",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6523",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "fix(ui) - improve leaderboard search layout",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "🐞 Bug - Grammar and Spelling Issues in Comments and Tutorial Text",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6521",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShashwatXD",
+          "name": null,
+          "title": "fix(simulator) - syncing webview and native",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/456",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
+          "points": 2
+        },
+        {
+          "username": "KARDT89",
+          "name": null,
+          "title": "issue-6522/fix-navbar-logo-alignment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6524",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
+          "points": 2
+        },
+        {
+          "username": "KARDT89",
+          "name": null,
+          "title": "🐞 Bug Navbar logo appears vertically misaligned on desktop and tablet viewports",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6522",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
+          "points": 1
+        },
         {
           "username": "gautamsidhwani29",
           "name": null,
@@ -19,6 +91,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
           "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
           "points": 1
+        },
+        {
+          "username": "riazation42",
+          "name": null,
+          "title": "Fix - Use modern beforeunload API to prevent blocked alert dialog (#6519)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6525",
+          "avatar_url": "https://avatars.githubusercontent.com/u/111638785?v=4",
+          "points": 2
         },
         {
           "username": "vivekyadav-3",
@@ -949,7 +1029,7 @@
           "points": 1
         },
         {
-          "username": "Harruta",
+          "username": "sengmonkham",
           "name": null,
           "title": "Fix - Improved login form layout by separating reCAPTCHA widget",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
@@ -1214,14 +1294,6 @@
           "points": 1
         },
         {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "docs(wsl) - fix Redis and PostgreSQL commands for WSL setup",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
           "username": "himanshujays29",
           "name": null,
           "title": "Fix typos, spelling errors, and grammar across simulator, docs, and locales",
@@ -1236,6 +1308,14 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6474",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "docs(wsl) - fix Redis and PostgreSQL commands for WSL setup",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
         },
         {
           "username": "manmeetsantre",
