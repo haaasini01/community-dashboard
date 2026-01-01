@@ -6,12 +6,12 @@ import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { GitHubHeatmap } from "@/components/people/GitHubHeatmap";
 import { useState } from "react";
-import { 
-  Activity, 
-  Calendar, 
-  GitCommit, 
-  Star, 
-  Trophy, 
+import {
+  Activity,
+  Calendar,
+  GitCommit,
+  Star,
+  Trophy,
   TrendingUp,
   BarChart3,
   Clock,
@@ -130,31 +130,31 @@ const defaultConfig: ActivityUIConfig = {
 export function ContributorDetail({ contributor, onBack }: ContributorDetailProps) {
   const [currentTime] = useState(() => Date.now());
 
-const getActivityConfig = (activityType: string): ActivityUIConfig => {
-  const type = activityType.toLowerCase();
+  const getActivityConfig = (activityType: string): ActivityUIConfig => {
+    const type = activityType.toLowerCase();
 
-  if (activityType in activityConfig) {
-    return activityConfig[activityType as ActivityKey];
-  }
+    if (activityType in activityConfig) {
+      return activityConfig[activityType as ActivityKey];
+    }
 
-  if (type.includes("pr merged") || type.includes("merged")) {
-    return activityConfig["PR merged"];
-  }
-  if (type.includes("pr opened") || type.includes("opened pr")) {
-    return activityConfig["PR opened"];
-  }
-  if (type.includes("issue")) {
-    return activityConfig["Issue opened"];
-  }
-  if (type.includes("commit")) {
-    return activityConfig["commit"];
-  }
-  if (type.includes("star")) {
-    return activityConfig["star"];
-  }
+    if (type.includes("pr merged") || type.includes("merged")) {
+      return activityConfig["PR merged"];
+    }
+    if (type.includes("pr opened") || type.includes("opened pr")) {
+      return activityConfig["PR opened"];
+    }
+    if (type.includes("issue")) {
+      return activityConfig["Issue opened"];
+    }
+    if (type.includes("commit")) {
+      return activityConfig["commit"];
+    }
+    if (type.includes("star")) {
+      return activityConfig["star"];
+    }
 
-  return defaultConfig;
-};
+    return defaultConfig;
+  };
 
 
 
@@ -168,33 +168,33 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
 
   const recentActivity = contributor.daily_activity || [];
   const totalDaysActive = recentActivity.length;
-  const averagePointsPerDay = totalDaysActive > 0 
-    ? Math.round((contributor.total_points || 0) / totalDaysActive) 
+  const averagePointsPerDay = totalDaysActive > 0
+    ? Math.round((contributor.total_points || 0) / totalDaysActive)
     : 0;
 
   // Calculate streak
   const sortedDates = recentActivity
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-  
+
   let currentStreak = 0;
   const today = new Date();
   today.setHours(0, 0, 0, 0);
-  
+
   const uniqueDates = Array.from(new Set(sortedDates.map(d => d.date)));
-  
+
   let expectedDaysDiff = 0;
-  
+
   for (const dateStr of uniqueDates) {
     const activityDate = new Date(dateStr);
     activityDate.setHours(0, 0, 0, 0);
     const daysDiff = Math.floor((today.getTime() - activityDate.getTime()) / (1000 * 60 * 60 * 24));
-    
+
     if (currentStreak === 0 && (daysDiff === 0 || daysDiff === 1)) {
       currentStreak++;
       expectedDaysDiff = daysDiff + 1;
       continue;
     }
-    
+
     if (daysDiff === expectedDaysDiff) {
       currentStreak++;
       expectedDaysDiff++;
@@ -208,12 +208,16 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
   const thisMonth = new Date();
   const monthlyActivity = recentActivity.filter(day => {
     const dayDate = new Date(day.date);
-    return dayDate.getMonth() === thisMonth.getMonth() && 
-           dayDate.getFullYear() === thisMonth.getFullYear();
+    return dayDate.getMonth() === thisMonth.getMonth() &&
+      dayDate.getFullYear() === thisMonth.getFullYear();
   });
 
   const monthlyPoints = monthlyActivity.reduce((sum, day) => sum + day.points, 0);
   const monthlyDays = monthlyActivity.length;
+  const maxPoints =
+  sortedActivities.length > 0
+    ? Math.max(...sortedActivities.map(([, d]) => d.points))
+    : 0;
 
   return (
     <div className="mx-auto px-4 py-8 max-w-7xl">
@@ -221,7 +225,7 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
         <ArrowLeft className="w-4 h-4 mr-2" />
         Back to People
       </Button>
-      
+
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
         <div className="lg:col-span-1">
           <Card className="sticky top-4 bg-gradient-to-br from-background via-background to-muted/20 shadow-lg border-0 ring-1 ring-border">
@@ -246,7 +250,7 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                     </div>
                   )}
                 </div>
-                
+
                 <div className="text-center w-full">
                   <h2 className="text-2xl font-bold mb-2">{contributor.name || contributor.username}</h2>
                   <p className="text-muted-foreground mb-3 text-lg">@{contributor.username}</p>
@@ -261,19 +265,19 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                     <span className="font-bold text-xl text-yellow-700">{contributor.total_points || 0}</span>
                     <span className="text-xs text-yellow-600 text-center font-medium">Total Points</span>
                   </div>
-                  
+
                   <div className="flex flex-col items-center p-4 rounded-xl bg-gradient-to-br from-blue-50 via-blue-50 to-blue-100 dark:from-blue-400 dark:to-blue-300 border border-blue-200 dark:border-blue-800">
                     <Calendar className="w-6 h-6 text-blue-600 mb-2" />
                     <span className="font-bold text-xl text-blue-700">{totalDaysActive}</span>
                     <span className="text-xs text-blue-600 text-center font-medium">Active Days</span>
                   </div>
-                  
+
                   <div className="flex flex-col items-center p-4 rounded-xl bg-gradient-to-br from-green-50 via-green-50 to-green-100 dark:from-green-400 dark:to-green-300 border border-green-200 dark:border-green-800">
                     <TrendingUp className="w-6 h-6 text-green-600 mb-2" />
                     <span className="font-bold text-xl text-green-700">{currentStreak}</span>
                     <span className="text-xs text-green-600 text-center font-medium">Day Streak</span>
                   </div>
-                  
+
                   <div className="flex flex-col items-center p-4 rounded-xl bg-gradient-to-br from-purple-50 via-purple-50 to-purple-100 dark:from-purple-400 dark:to-purple-300 border border-purple-200 dark:border-purple-800">
                     <Target className="w-6 h-6 text-purple-600 mb-2" />
                     <span className="font-bold text-xl text-purple-700">{averagePointsPerDay}</span>
@@ -281,8 +285,8 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                   </div>
                 </div>
 
-                <a 
-                  href={`https://github.com/${contributor.username}`} 
+                <a
+                  href={`https://github.com/${contributor.username}`}
                   target="_blank" rel="noopener noreferrer"
                   className="w-full flex justify-center mt-4"
                 >
@@ -336,15 +340,15 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {sortedActivities.map(([activity, data]) => {
                   const config = getActivityConfig(activity);
-                  
+
                   return (
-                    <div 
-                      key={activity} 
+                    <div
+                      key={activity}
                       className={`group relative p-5 rounded-xl border ${config.borderColor} bg-gradient-to-br ${config.gradient} hover:shadow-lg transition-all duration-200 overflow-hidden`}
                     >
                       {/* Accent bar on the left */}
                       <div className={`absolute left-0 top-0 bottom-0 w-1 ${config.accentColor}`} />
-                      
+
                       <div className="flex items-center gap-3 mb-4">
                         <div className={`p-2.5 rounded-lg ${config.iconBg} transition-colors ${config.textColor}`}>
                           {config.icon}
@@ -357,7 +361,7 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                           {data.points}
                         </Badge>
                       </div>
-                      
+
                       <div className="space-y-3 pl-1">
                         <div className="flex justify-between items-center text-sm">
                           <span className="font-medium text-muted-foreground">Average per contribution</span>
@@ -365,14 +369,18 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                             {Math.round(data.points / data.count)} pts
                           </span>
                         </div>
-                        
+
                         {/* Visual progress bar */}
                         <div className="w-full h-2 bg-muted rounded-full overflow-hidden">
-                          <div 
+                          <div
                             className={`h-full ${config.accentColor} transition-all duration-300`}
-                            style={{ 
-                              width: `${Math.min((data.points / Math.max(...sortedActivities.map(([, d]) => d.points))) * 100, 100)}%` 
+                            style={{
+                              width: `${Math.min(
+                                maxPoints > 0 ? (data.points / maxPoints) * 100 : 0,
+                                100
+                              )}%`,
                             }}
+
                           />
                         </div>
                       </div>
@@ -399,15 +407,14 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                     const isVeryRecent = index < 3;
                     const daysAgo = Math.floor((currentTime - date.getTime()) / (1000 * 60 * 60 * 24));
                     const config = getActivityConfig(activity.type);
-                    
+
                     return (
-                      <div 
+                      <div
                         key={`${activity.link}-${index}`}
-                        className={`group flex items-start gap-4 p-4 rounded-lg border transition-all duration-200 hover:shadow-md ${
-                          isVeryRecent 
-                            ? `${config.borderColor} bg-gradient-to-r ${config.gradient}` 
+                        className={`group flex items-start gap-4 p-4 rounded-lg border transition-all duration-200 hover:shadow-md ${isVeryRecent
+                            ? `${config.borderColor} bg-gradient-to-r ${config.gradient}`
                             : 'bg-muted/20 hover:bg-muted/40 hover:border-primary/20'
-                        }`}
+                          }`}
                       >
                         <div className={`mt-1 p-2 rounded-lg ${config.iconBg} ${config.textColor} transition-colors`}>
                           {config.icon}
@@ -416,9 +423,9 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                           <div className="flex items-start justify-between gap-3 mb-2">
                             <div className="flex-1 min-w-0">
                               {activity.link ? (
-                                <a 
-                                  href={activity.link} 
-                                  target="_blank" 
+                                <a
+                                  href={activity.link}
+                                  target="_blank"
                                   rel="noopener noreferrer"
                                   className="font-medium text-sm line-clamp-2 mb-1 group-hover:text-primary transition-colors cursor-pointer hover:underline"
                                 >
@@ -440,8 +447,8 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                               </div>
                             </div>
                             <div className="flex items-center gap-3 shrink-0">
-                              <Badge 
-                                variant={isVeryRecent ? "default" : "secondary"} 
+                              <Badge
+                                variant={isVeryRecent ? "default" : "secondary"}
                                 className={`text-xs font-bold ${isVeryRecent ? `${config.bgColor} ${config.textColor} border-0` : ''}`}
                               >
                                 +{activity.points} pts
@@ -452,8 +459,8 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
                             </div>
                           </div>
                           {activity.link && (
-                            <a 
-                              href={activity.link} 
+                            <a
+                              href={activity.link}
                               target="_blank"
                               rel="noopener noreferrer"
                               className={`inline-flex items-center gap-1 text-xs hover:underline font-medium ${config.textColor}`}
@@ -471,7 +478,7 @@ const getActivityConfig = (activityType: string): ActivityUIConfig => {
             </Card>
           )}
 
-          <GitHubHeatmap 
+          <GitHubHeatmap
             dailyActivity={recentActivity}
             className="border-primary/20"
           />
