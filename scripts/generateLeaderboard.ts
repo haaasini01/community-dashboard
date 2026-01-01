@@ -18,10 +18,7 @@ export type LeaderboardActivity = {
   occured_at: string;
 };
 
-type ActivityBreakdown = Record<
-  string,
-  { count: number; points: number }
->;
+type ActivityBreakdown = Record<string, { count: number; points: number }>;
 
 type DailyActivity = {
   date: string;
@@ -58,7 +55,7 @@ export type UserEntry = Contributor & {
 
 /**
  * Converts a database activity into a leaderboard-safe activity.
- * This prevents runtime crashes due to schema mismatches.
+ * Prevents runtime crashes due to schema mismatches.
  */
 export function mapDbActivityToLeaderboardActivity(
   dbActivity: {
@@ -148,10 +145,13 @@ export function generateLeaderboard(
 
     contributor.total_points += activity.points;
 
-    // ---- DAILY ACTIVITY (SAFE) ----
-    const date = new Date(activity.occured_at)
-      .toISOString()
-      .slice(0, 10);
+    /* ---- DAILY ACTIVITY (SAFE DATE PARSING) ---- */
+    const parsedDate = new Date(activity.occured_at);
+
+    // Guard against invalid / malformed dates
+    if (isNaN(parsedDate.getTime())) continue;
+
+    const date = parsedDate.toISOString().slice(0, 10);
 
     let day = contributor.daily_activity.find(d => d.date === date);
 
