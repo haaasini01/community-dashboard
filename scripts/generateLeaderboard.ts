@@ -21,7 +21,29 @@ type DailyActivity = {
   points: number;
 };
 
-type Contributor = {
+export type UserEntry = {
+  username: string;
+  name: string | null;
+  avatar_url: string;
+  role: string | null;
+  total_points: number;
+  activity_breakdown: Record<string, { count: number; points: number }>;
+  daily_activity: {
+    date: string;
+    count: number;
+    points: number;
+  }[];
+  activities?: {
+    type: string;
+    title?: string | null;
+    occured_at: string;
+    link?: string | null;
+    points: number;
+  }[];
+};
+
+
+export type Contributor = {
   username: string;
   name: string | null;
   avatar_url: string;
