@@ -117,6 +117,15 @@ export default function LeaderboardView({
     return Array.from(roles).sort();
   }, [entries]);
 
+  const originalRanks = useMemo(() => {
+    const sortedByPoints = sortEntries(entries, 'points');
+    const rankMap = new Map<string, number>();
+    sortedByPoints.forEach((entry, index) => {
+      rankMap.set(entry.username, index + 1);
+    });
+    return rankMap;
+  }, [entries]);
+
   // Filter entries by selected roles and search query
   const filteredEntries = useMemo(() => {
     let filtered = entries;
@@ -426,7 +435,8 @@ export default function LeaderboardView({
           ) : (
             <div className="space-y-4">
               {filteredEntries.map((entry, index) => {
-                const rank = index + 1;
+                const savedRank = originalRanks.get(entry.username);
+                const rank = savedRank ? savedRank : index + 1;                
                 const isTopThree = rank <= 3;
 
                 return (
