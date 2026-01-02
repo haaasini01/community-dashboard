@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1767316002918,
+  "updatedAt": 1767335088587,
   "startDate": "2025-12-26",
   "endDate": "2026-01-02",
   "hiddenRoles": [],
@@ -397,186 +397,11 @@
       ]
     },
     {
-      "username": "Atharva7126",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-      "role": "Contributor",
-      "total_points": 23,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 9,
-          "points": 9
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-26",
-          "count": 7,
-          "points": 16
-        },
-        {
-          "date": "2025-12-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-27",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-01-01",
-          "count": 4,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix - Overlapping of label \"High\"",
-          "occured_at": "2025-12-26T05:09:24Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
-          "points": 2,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Bug - Fixed graph logic to show actual data",
-          "occured_at": "2025-12-29T13:16:24Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/44",
-          "points": 2,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - Overlapping of label \"High\"",
-          "occured_at": "2025-12-26T05:32:15Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
-          "points": 5,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Feat - added github repo link in navbar",
-          "occured_at": "2025-12-26T04:30:43Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
-          "points": 5,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
-          "occured_at": "2025-12-27T06:07:29Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Feat - Add pagination to leaderboard (15–20 entries per page)",
-          "occured_at": "2025-12-26T10:56:51Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/20",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Bug - Leaderboard page is not responsive on mobile viewports",
-          "occured_at": "2025-12-26T10:48:32Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/19",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Clean Up Pagination - Remove Activity Stream Label and “Page X of Y”",
-          "occured_at": "2025-12-26T05:19:03Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/17",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Bug - \"High\" label overlapping the card",
-          "occured_at": "2025-12-26T04:56:02Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/15",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Back button in username section shows black background on hover",
-          "occured_at": "2026-01-01T18:19:46Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/64",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Remove unnecessary and unused imports from the codebase",
-          "occured_at": "2026-01-01T18:10:59Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/63",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Heading and subheading use the same color in \"Our People\" section",
-          "occured_at": "2026-01-01T17:53:34Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/62",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Contribution heatmap displays wrong year and should support year switching",
-          "occured_at": "2026-01-01T17:46:06Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/61",
-          "points": 1,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        }
-      ]
-    },
-    {
       "username": "himanshujays29",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 22,
+      "total_points": 23,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
@@ -587,8 +412,8 @@
           "points": 10
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -606,6 +431,11 @@
           "date": "2025-12-28",
           "count": 2,
           "points": 2
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 1
         },
         {
           "date": "2025-12-30",
@@ -686,6 +516,16 @@
         },
         {
           "type": "Issue opened",
+          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
+          "occured_at": "2026-01-02T03:57:43Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "UI Bug - Contributor Username Overflows Profile Card",
           "occured_at": "2025-12-30T03:53:49Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/47",
@@ -721,11 +561,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 20,
+      "total_points": 18,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 1,
@@ -743,11 +583,6 @@
           "points": 6
         },
         {
-          "date": "2025-12-26",
-          "count": 2,
-          "points": 7
-        },
-        {
           "date": "2026-01-01",
           "count": 4,
           "points": 5
@@ -756,6 +591,11 @@
           "date": "2025-12-30",
           "count": 1,
           "points": 2
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 5
         }
       ],
       "activities": [
@@ -764,16 +604,6 @@
           "title": "UI bug fix",
           "occured_at": "2025-12-28T11:04:21Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
-          "points": 2,
-          "contributor": "Me-Priyank",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "pagination UI enhancement, fix #17",
-          "occured_at": "2025-12-26T05:53:43Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
           "points": 2,
           "contributor": "Me-Priyank",
           "contributor_name": null,
@@ -876,11 +706,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
       "role": "Contributor",
-      "total_points": 15,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 6,
+          "points": 12
         },
         "Issue opened": {
           "count": 5,
@@ -892,6 +722,11 @@
           "date": "2025-12-28",
           "count": 4,
           "points": 6
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2026-01-01",
@@ -915,6 +750,16 @@
           "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
           "occured_at": "2025-12-28T14:39:11Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - Update Pagination state for pages beyond 3",
+          "occured_at": "2026-01-02T05:00:21Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/70",
           "points": 2,
           "contributor": "haaasini01",
           "contributor_name": null,
@@ -1382,6 +1227,127 @@
           "contributor": "ViRUS-0-0",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
+        }
+      ]
+    },
+    {
+      "username": "Atharva7126",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 7,
+          "points": 7
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-26",
+          "count": 2,
+          "points": 2
+        },
+        {
+          "date": "2026-01-01",
+          "count": 4,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Bug - Fixed graph logic to show actual data",
+          "occured_at": "2025-12-29T13:16:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/44",
+          "points": 2,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
+          "occured_at": "2025-12-27T06:07:29Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feat - Add pagination to leaderboard (15–20 entries per page)",
+          "occured_at": "2025-12-26T10:56:51Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/20",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - Leaderboard page is not responsive on mobile viewports",
+          "occured_at": "2025-12-26T10:48:32Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/19",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Back button in username section shows black background on hover",
+          "occured_at": "2026-01-01T18:19:46Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/64",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Remove unnecessary and unused imports from the codebase",
+          "occured_at": "2026-01-01T18:10:59Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/63",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Heading and subheading use the same color in \"Our People\" section",
+          "occured_at": "2026-01-01T17:53:34Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/62",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Contribution heatmap displays wrong year and should support year switching",
+          "occured_at": "2026-01-01T17:46:06Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/61",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
         }
       ]
     },

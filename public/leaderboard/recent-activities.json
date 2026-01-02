@@ -1,6 +1,27 @@
 {
-  "updatedAt": 1767316002937,
+  "updatedAt": 1767335088607,
   "groups": [
+    {
+      "date": "2026-01-02",
+      "items": [
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "fix - Update Pagination state for pages beyond 3",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/70",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        }
+      ]
+    },
     {
       "date": "2026-01-01",
       "items": [
@@ -202,14 +223,6 @@
           "points": 5
         },
         {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "Fix interactive books page view",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/457",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 2
-        },
-        {
           "username": "haaasini01",
           "name": null,
           "title": "Remove stray char from truth table in Canonical Functions subchapter",
@@ -224,6 +237,14 @@
           "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
+        },
+        {
+          "username": "ShashwatXD",
+          "name": null,
+          "title": "Fix interactive books page view",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/457",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
+          "points": 2
         },
         {
           "username": "Agarwalchetan",
@@ -319,20 +340,20 @@
           "points": 2
         },
         {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Contributor UI enhancement",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/51",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
           "username": "himanshujays29",
           "name": null,
           "title": "UI Bug - Contributor Username Overflows Profile Card",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/47",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Contributor UI enhancement",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/51",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
         },
         {
           "username": "haaasini01",
@@ -633,6 +654,22 @@
           "points": 2
         },
         {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
           "username": "Me-Priyank",
           "name": null,
           "title": "UI bug fix",
@@ -662,22 +699,6 @@
           "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
           "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         },
         {

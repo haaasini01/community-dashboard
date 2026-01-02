@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1767316002920,
+  "updatedAt": 1767335088589,
   "startDate": "2025-12-19",
   "endDate": "2026-01-02",
   "hiddenRoles": [],
@@ -11,15 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 45,
+      "total_points": 40,
       "activity_breakdown": {
         "PR opened": {
           "count": 5,
           "points": 10
         },
         "PR merged": {
-          "count": 5,
-          "points": 25
+          "count": 4,
+          "points": 20
         },
         "Issue opened": {
           "count": 10,
@@ -41,11 +41,6 @@
           "date": "2025-12-29",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 5
         },
         {
           "date": "2025-12-27",
@@ -144,16 +139,6 @@
           "title": "Fix - unnecessary padding in navbar",
           "occured_at": "2025-12-25T14:30:55Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "points": 5,
-          "contributor": "Atharva7126",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "occured_at": "2025-12-19T04:14:04Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
           "points": 5,
           "contributor": "Atharva7126",
           "contributor_name": null,
@@ -951,7 +936,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 29,
+      "total_points": 30,
       "activity_breakdown": {
         "PR opened": {
           "count": 5,
@@ -962,8 +947,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -991,6 +976,11 @@
           "date": "2025-12-28",
           "count": 2,
           "points": 2
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 1
         },
         {
           "date": "2025-12-30",
@@ -1084,6 +1074,16 @@
           "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
           "occured_at": "2025-12-28T13:12:22Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
+          "occured_at": "2026-01-02T03:57:43Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
           "points": 1,
           "contributor": "himanshujays29",
           "contributor_name": null,
@@ -1401,11 +1401,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
       "role": "Contributor",
-      "total_points": 15,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 6,
+          "points": 12
         },
         "Issue opened": {
           "count": 5,
@@ -1417,6 +1417,11 @@
           "date": "2025-12-28",
           "count": 4,
           "points": 6
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2026-01-01",
@@ -1440,6 +1445,16 @@
           "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
           "occured_at": "2025-12-28T14:39:11Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - Update Pagination state for pages beyond 3",
+          "occured_at": "2026-01-02T05:00:21Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/70",
           "points": 2,
           "contributor": "haaasini01",
           "contributor_name": null,
@@ -3145,70 +3160,6 @@
           "contributor": "sai-ganesh-1706",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4"
-        }
-      ]
-    },
-    {
-      "username": "kris70lesgo",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "docs - add Redis startup instructions for Linux and macOS",
-          "occured_at": "2025-12-19T06:12:31Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6486",
-          "points": 2,
-          "contributor": "kris70lesgo",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Vibhay007",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix bug #668",
-          "occured_at": "2025-12-19T03:10:52Z",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/743",
-          "points": 2,
-          "contributor": "Vibhay007",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4"
         }
       ]
     },

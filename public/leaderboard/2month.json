@@ -1,6 +1,6 @@
 {
   "period": "2month",
-  "updatedAt": 1767316002927,
+  "updatedAt": 1767335088596,
   "startDate": "2025-11-03",
   "endDate": "2026-01-02",
   "hiddenRoles": [],
@@ -2077,7 +2077,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 32,
+      "total_points": 33,
       "activity_breakdown": {
         "PR opened": {
           "count": 6,
@@ -2088,8 +2088,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 5,
-          "points": 5
+          "count": 6,
+          "points": 6
         }
       },
       "daily_activity": [
@@ -2122,6 +2122,11 @@
           "date": "2025-12-28",
           "count": 2,
           "points": 2
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 1
         },
         {
           "date": "2025-12-30",
@@ -2235,6 +2240,16 @@
           "title": "🐞 Bug - Fix typos and localization errors in simulator, docs, and config files",
           "occured_at": "2025-12-16T09:49:20Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6474",
+          "points": 1,
+          "contributor": "himanshujays29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
+          "occured_at": "2026-01-02T03:57:43Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
           "points": 1,
           "contributor": "himanshujays29",
           "contributor_name": null,
@@ -2898,6 +2913,162 @@
       ]
     },
     {
+      "username": "haaasini01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+      "role": "Contributor",
+      "total_points": 17,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-28",
+          "count": 4,
+          "points": 6
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-31",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - Update Pagination state for pages beyond 3",
+          "occured_at": "2026-01-02T05:00:21Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/70",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Add Points, PR and Issue sort options to filter menu and improve clear behavior",
+          "occured_at": "2026-01-01T19:56:05Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/67",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Remove stray char from truth table in Canonical Functions subchapter",
+          "occured_at": "2025-12-31T15:47:16Z",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/745",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "justify text alignment in documentation",
+          "occured_at": "2025-12-30T15:15:24Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Pagination fails to display active page beyond page 3 in Recent Activities section",
+          "occured_at": "2026-01-01T20:25:11Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/68",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Stray character displayed in the truth table in Canonical Functions subchapterz",
+          "occured_at": "2025-12-31T15:31:01Z",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feature Request - Enable justified text for docs content",
+          "occured_at": "2025-12-30T14:15:28Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        }
+      ]
+    },
+    {
       "username": "Radhikaa-chauhan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
@@ -3141,147 +3312,6 @@
           "contributor": "Teesta-Mukherjee",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        }
-      ]
-    },
-    {
-      "username": "haaasini01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-      "role": "Contributor",
-      "total_points": 15,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-28",
-          "count": 4,
-          "points": 6
-        },
-        {
-          "date": "2026-01-01",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-31",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-30",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Add Points, PR and Issue sort options to filter menu and improve clear behavior",
-          "occured_at": "2026-01-01T19:56:05Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/67",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Remove stray char from truth table in Canonical Functions subchapter",
-          "occured_at": "2025-12-31T15:47:16Z",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/745",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "justify text alignment in documentation",
-          "occured_at": "2025-12-30T15:15:24Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Pagination fails to display active page beyond page 3 in Recent Activities section",
-          "occured_at": "2026-01-01T20:25:11Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/68",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Stray character displayed in the truth table in Canonical Functions subchapterz",
-          "occured_at": "2025-12-31T15:31:01Z",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Feature Request - Enable justified text for docs content",
-          "occured_at": "2025-12-30T14:15:28Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
         }
       ]
     },
@@ -4620,48 +4650,6 @@
       ]
     },
     {
-      "username": "prasanth-30011",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/221947950?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-11-03",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Docs/fix readme typo",
-          "occured_at": "2025-11-03T17:14:25Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6325",
-          "points": 2,
-          "contributor": "prasanth-30011",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/221947950?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - fix markdown formatting and links in README",
-          "occured_at": "2025-11-03T03:10:43Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6324",
-          "points": 2,
-          "contributor": "prasanth-30011",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/221947950?v=4"
-        }
-      ]
-    },
-    {
       "username": "RiyaS905",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
@@ -5480,6 +5468,38 @@
           "contributor": "Aakansha-Chavan",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
+        }
+      ]
+    },
+    {
+      "username": "prasanth-30011",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/221947950?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-11-03",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Docs/fix readme typo",
+          "occured_at": "2025-11-03T17:14:25Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6325",
+          "points": 2,
+          "contributor": "prasanth-30011",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/221947950?v=4"
         }
       ]
     },
