@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1767291754530,
+  "updatedAt": 1767316002937,
   "groups": [
     {
       "date": "2026-01-01",
@@ -71,6 +71,22 @@
         {
           "username": "Me-Priyank",
           "name": null,
+          "title": "Preserve scroll position",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/66",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Preserve scroll position on /people when navigating back from contributor view",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/65",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
           "title": "Broken navigation when opening contributor profile from /people",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
           "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
@@ -90,6 +106,22 @@
           "title": "Add Entries-Per-Page Dropdown to Leaderboard",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
           "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+          "points": 1
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Add Points, PR and Issue sort options to filter menu and improve clear behavior",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/67",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Pagination fails to display active page beyond page 3 in Recent Activities section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/68",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
         },
         {
@@ -159,14 +191,6 @@
           "title": "Fix contributor name overflow in profile card layout",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/56",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
-        },
-        {
-          "username": "manmeetsantre",
-          "name": null,
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
           "points": 5
         },
         {
@@ -295,6 +319,14 @@
           "points": 2
         },
         {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Contributor UI enhancement",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/51",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "UI Bug - Contributor Username Overflows Profile Card",
@@ -303,12 +335,20 @@
           "points": 1
         },
         {
-          "username": "Me-Priyank",
+          "username": "haaasini01",
           "name": null,
-          "title": "Contributor UI enhancement",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/51",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "title": "justify text alignment in documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Feature Request - Enable justified text for docs content",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
         },
         {
           "username": "akshitvigg",
@@ -333,22 +373,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6531",
           "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
           "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "justify text alignment in documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Feature Request - Enable justified text for docs content",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
         },
         {
           "username": "vivekyadav-3",
@@ -539,9 +563,49 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "chore(ci) - pin Node.js version to 18 for Netlify builds",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/478",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Testing coderabbitaibot",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/41",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "Netlify CI fails",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Netlify CI fails",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "🐞 Bug - Tauri Desktop Release CI/CD workflow fails on all platforms (Windows, Ubuntu, macOS)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/704",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
           "points": 1
         },
         {
@@ -561,12 +625,20 @@
           "points": 2
         },
         {
-          "username": "himanshujays29",
+          "username": "Git-HimanshuRathi",
           "name": null,
-          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
+          "title": "fix(TabsBar) - toggle button now properly expands/collapses tabs bar height",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "UI bug fix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6518",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
         },
         {
           "username": "Me-Priyank",
@@ -585,20 +657,36 @@
           "points": 1
         },
         {
-          "username": "ViRUS-0-0",
+          "username": "Me-Priyank",
           "name": null,
-          "title": "fixed ArgumentError - invalid value for Integer()",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
-          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
-          "points": 2
+          "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
         },
         {
-          "username": "ViRUS-0-0",
+          "username": "himanshujays29",
           "name": null,
-          "title": "🐞 Bug - Blocked Alert when refreshing an unsaved simulator circuit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6519",
-          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI/UX Issue - Search & Filter placement on Leaderboard (640px–760px)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/40",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
         },
         {
           "username": "haaasini01",
@@ -617,11 +705,67 @@
           "points": 1
         },
         {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
+        },
+        {
+          "username": "ViRUS-0-0",
+          "name": null,
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 2
+        },
+        {
+          "username": "ViRUS-0-0",
+          "name": null,
+          "title": "fixed ArgumentError - invalid value for Integer()",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 2
+        },
+        {
+          "username": "ViRUS-0-0",
+          "name": null,
+          "title": "🐞 Bug - Blocked Alert when refreshing an unsaved simulator circuit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6519",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 1
+        },
+        {
+          "username": "ViRUS-0-0",
+          "name": null,
+          "title": "🐞 Bug - Blocked Alert when refreshing an unsaved simulator circuit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6519",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
+          "points": 1
+        },
+        {
           "username": "themradul07",
           "name": null,
           "title": "Issue 34 - Added Dropdown Filters",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/39",
           "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
+          "points": 2
+        },
+        {
+          "username": "themradul07",
+          "name": null,
+          "title": "Issue 34 - Added Dropdown Filters",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/39",
+          "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
+          "points": 2
+        },
+        {
+          "username": "RiyaS905",
+          "name": null,
+          "title": "Fix UI alignment for grading scale and restriction checkboxes",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6515",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
           "points": 2
         },
         {
@@ -643,22 +787,6 @@
           "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 1
         },
         {
@@ -691,14 +819,6 @@
           "title": "fix - use consistent activity pill order across all contributor rows",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/32",
           "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - use consistent activity pill order across all contributor rows",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/32",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
           "points": 5
         },
         {
@@ -710,22 +830,6 @@
           "points": 5
         },
         {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - use consistent activity pill order across all contributor rows",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/32",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "manmeetsantre",
-          "name": null,
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-          "points": 2
-        },
-        {
           "username": "manmeetsantre",
           "name": null,
           "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
@@ -742,19 +846,11 @@
           "points": 1
         },
         {
-          "username": "manmeetsantre",
+          "username": "Radhikaa-chauhan",
           "name": null,
-          "title": "CircuitVerse Logo in Footer Does Not Redirect to Main Website",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-          "points": 1
-        },
-        {
-          "username": "madaankartik",
-          "name": null,
-          "title": "github_icon_fixed_inside_the_navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/33",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
           "points": 2
         },
         {
@@ -774,38 +870,6 @@
           "points": 5
         },
         {
-          "username": "madaankartik",
-          "name": null,
-          "title": "github_icon_fixed_inside_the_navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/33",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
-          "points": 5
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "chore - bump aws-sdk-s3 to fix security advisory",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "chore - bump aws-sdk-s3 to fix security advisory",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "ViRUS-0-0",
-          "name": null,
-          "title": "Fix createPopper error by including Popper.js dependency",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6510",
-          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
-          "points": 2
-        },
-        {
           "username": "ViRUS-0-0",
           "name": null,
           "title": "Fix createPopper error by including Popper.js dependency",
@@ -820,22 +884,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/35",
           "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
           "points": 2
-        },
-        {
-          "username": "themradul07",
-          "name": null,
-          "title": "Issue #34 - Added filters",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/35",
-          "avatar_url": "https://avatars.githubusercontent.com/u/171602531?v=4",
-          "points": 2
-        },
-        {
-          "username": "yats0x7",
-          "name": null,
-          "title": "Implement pagination or virtualization for \"Yearly\" leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/36",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
-          "points": 1
         },
         {
           "username": "yats0x7",
@@ -1019,22 +1067,6 @@
           "points": 5
         },
         {
-          "username": "madaankartik",
-          "name": null,
-          "title": "fix - make leaderboard filters responsive on mobile",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
-          "points": 2
-        },
-        {
-          "username": "madaankartik",
-          "name": null,
-          "title": "fix - make leaderboard filters responsive on mobile",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
-          "points": 5
-        },
-        {
           "username": "SouparnaChatterjee",
           "name": null,
           "title": "feat(simulator) - add confirmation dialog before clearing canvas",
@@ -1049,6 +1081,22 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/701",
           "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
           "points": 1
+        },
+        {
+          "username": "madaankartik",
+          "name": null,
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+          "points": 2
+        },
+        {
+          "username": "madaankartik",
+          "name": null,
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+          "points": 5
         },
         {
           "username": "yashveer-1",
@@ -1534,75 +1582,6 @@
           "title": "Prevent redundant event rescheduling in simulator event queue",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6493",
           "avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "date": "2025-12-19",
-      "items": [
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "UI bug - Change focus border color on Contact Us form from red to green",
-          "link": "https://github.com/CircuitVerse/Blog/issues/257",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "FEATURE REQUEST Add invite acceptance flow in app",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/455",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "Add pull to refresh functionality",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/453",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 1
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "🐞 Bug - Wire routing parity issue - cv-frontend-vue does not support orthogonal (zig-zag) wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/696",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "kris70lesgo",
-          "name": null,
-          "title": "docs - add Redis startup instructions for Linux and macOS",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6486",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4",
-          "points": 2
-        },
-        {
-          "username": "Vibhay007",
-          "name": null,
-          "title": "Fix bug #668",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/743",
-          "avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4",
           "points": 2
         }
       ]
