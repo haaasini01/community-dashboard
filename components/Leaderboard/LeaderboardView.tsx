@@ -222,7 +222,8 @@ export default function LeaderboardView({
  * fully sorted leaderboard list
  *
  * @remarks
- * - Rank is independent of filters and pagination
+ * - Rank is independent of search query and pagination
+ * - When role filtering is active, ranks are computed within the filtered subset
  * - Ensures consistent rank display across UI states
  *
  * @returns {Map<string, number>} Map of username -> rank
