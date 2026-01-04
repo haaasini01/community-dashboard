@@ -232,6 +232,27 @@ export default function LeaderboardView({
     return Array.from(roles).sort();
   }, [entries]);
 
+  // Calculate ranks based on current sort criteria
+  // Rank is independent of search query and pagination
+  // When role filtering is active, ranks are computed within the filtered subset
+  const entryRanks = useMemo(() => {
+    // Filter by selectedRoles only when roles are selected (consistent with filteredEntries)
+    let entriesForRanking = entries;
+    if (selectedRoles.size > 0) {
+      entriesForRanking = entries.filter(
+        (entry) => entry.role && selectedRoles.has(entry.role)
+      );
+    }
+    
+    // Sort by current sort criteria and calculate ranks
+    const sorted = sortEntries(entriesForRanking, sortBy);
+    const rankMap = new Map<string, number>();
+    sorted.forEach((entry, index) => {
+      rankMap.set(entry.username, index + 1);
+    });
+    return rankMap;
+  }, [entries, selectedRoles, sortBy]);
+
   const filteredEntries = useMemo(() => {
     let filtered = entries;
 
@@ -715,10 +736,11 @@ export default function LeaderboardView({
           ) : (
             <div className="space-y-4">
               {paginatedEntries.map((entry, index) => {
-                // Calculate rank based on position in filtered list, accounting for pagination offset
-                const rank = pageSize === Infinity 
-                  ? index + 1 
-                  : (currentPage - 1) * pageSize + index + 1;
+                // Use pre-calculated rank based on sort criteria (independent of search/pagination)
+                const savedRank = entryRanks.get(entry.username);
+                // Fallback: use position in filteredEntries (not pagination-dependent)
+                const fallbackRank = filteredEntries.findIndex(e => e.username === entry.username) + 1;
+                const rank = savedRank ?? fallbackRank;
                 const isTopThree = rank <= 3;
 
                 return (
