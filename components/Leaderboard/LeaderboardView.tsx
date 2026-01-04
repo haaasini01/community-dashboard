@@ -233,14 +233,16 @@ export default function LeaderboardView({
   }, [entries]);
 
   // Calculate ranks based on current sort criteria
-  // Always filter by selectedRoles to ensure consistency with filteredEntries and exclude hidden roles
   // Rank is independent of search query and pagination
+  // When role filtering is active, ranks are computed within the filtered subset
   const entryRanks = useMemo(() => {
-    // Always filter by selectedRoles to ensure consistency with filteredEntries
-    // and to exclude hidden roles
-    const entriesForRanking = entries.filter(
-      (entry) => entry.role && selectedRoles.has(entry.role)
-    );
+    // Filter by selectedRoles only when roles are selected (consistent with filteredEntries)
+    let entriesForRanking = entries;
+    if (selectedRoles.size > 0) {
+      entriesForRanking = entries.filter(
+        (entry) => entry.role && selectedRoles.has(entry.role)
+      );
+    }
     
     // Sort by current sort criteria and calculate ranks
     const sorted = sortEntries(entriesForRanking, sortBy);
