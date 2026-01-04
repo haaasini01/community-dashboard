@@ -738,10 +738,8 @@ export default function LeaderboardView({
               {paginatedEntries.map((entry, index) => {
                 // Use pre-calculated rank based on sort criteria (independent of search/pagination)
                 const savedRank = entryRanks.get(entry.username);
-                // Fallback: use position in filteredEntries (accounting for pagination offset)
-                const fallbackRank = pageSize === Infinity 
-                  ? index + 1 
-                  : (currentPage - 1) * pageSize + index + 1;
+                // Fallback: use position in filteredEntries (not pagination-dependent)
+                const fallbackRank = filteredEntries.findIndex(e => e.username === entry.username) + 1;
                 const rank = savedRank ?? fallbackRank;
                 const isTopThree = rank <= 3;
 
