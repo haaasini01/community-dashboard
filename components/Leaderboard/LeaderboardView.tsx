@@ -232,6 +232,25 @@ export default function LeaderboardView({
     return Array.from(roles).sort();
   }, [entries]);
 
+  // Calculate ranks based on current sort criteria
+  // Always filter by selectedRoles to ensure consistency with filteredEntries and exclude hidden roles
+  // Rank is independent of search query and pagination
+  const entryRanks = useMemo(() => {
+    // Always filter by selectedRoles to ensure consistency with filteredEntries
+    // and to exclude hidden roles
+    const entriesForRanking = entries.filter(
+      (entry) => entry.role && selectedRoles.has(entry.role)
+    );
+    
+    // Sort by current sort criteria and calculate ranks
+    const sorted = sortEntries(entriesForRanking, sortBy);
+    const rankMap = new Map<string, number>();
+    sorted.forEach((entry, index) => {
+      rankMap.set(entry.username, index + 1);
+    });
+    return rankMap;
+  }, [entries, selectedRoles, sortBy]);
+
   const filteredEntries = useMemo(() => {
     let filtered = entries;
 
@@ -715,10 +734,9 @@ export default function LeaderboardView({
           ) : (
             <div className="space-y-4">
               {paginatedEntries.map((entry, index) => {
-                // Calculate rank based on position in filtered list, accounting for pagination offset
-                const rank = pageSize === Infinity 
-                  ? index + 1 
-                  : (currentPage - 1) * pageSize + index + 1;
+                // Use pre-calculated rank based on sort criteria (independent of search/pagination)
+                const savedRank = entryRanks.get(entry.username);
+                const rank = savedRank ?? index + 1;
                 const isTopThree = rank <= 3;
 
                 return (
