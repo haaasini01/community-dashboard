@@ -26,13 +26,10 @@ export const Footer = async ({ config }: FooterProps) => {
 
   return (
     <footer className="border-t border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-black transition-colors mt-5">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 lg:py-7">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-8 lg:gap-12 mb-12">
-          <div className="lg:col-span-5 space-y-6">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 lg:py-7 w-full">
+        <div className="grid grid-cols-3 md:grid-cols-9 lg:grid-cols-12 gap-8 lg:gap-12 mb-12">
+          <div className="col-span-2 col-start-1 md:col-span-4 lg:col-span-5 space-y-6">
             <div className="space-y-2">
-              <h3 className="text-sm font-semibold uppercase tracking-wider text-zinc-900 dark:text-zinc-100">
-                About Us
-              </h3>
               <Link
                 href="https://circuitverse.org/"
                 target="_blank"
@@ -159,8 +156,8 @@ export const Footer = async ({ config }: FooterProps) => {
             </div>
           </div>
 
-          <div className="lg:col-span-3 lg:col-start-7">
-            <h3 className="text-sm font-semibold text-zinc-900 dark:text-zinc-100 mb-4">
+          <div className="col-span-1 col-start-3 md:col-span-2 lg:col-span-3 lg:col-start-7">
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-zinc-900 dark:text-zinc-100 mb-3">
               Pages
             </h3>
             <ul className="space-y-3">
@@ -205,8 +202,8 @@ export const Footer = async ({ config }: FooterProps) => {
             </ul>
           </div>
 
-          <div className="lg:col-span-3">
-            <h3 className="text-sm font-semibold text-zinc-900 dark:text-zinc-100 mb-4">
+          <div className="col-span-3 md:col-span-3 md:col-start-auto lg:col-span-3">
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-zinc-900 dark:text-zinc-100 mb-4">
               System Status
             </h3>
             <div className="rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 space-y-3">
@@ -247,8 +244,8 @@ export const Footer = async ({ config }: FooterProps) => {
           </div>
         </div>
 
-        <div className="border-t border-zinc-200 dark:border-zinc-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-zinc-500 dark:text-zinc-400">
+        <div className="border-t border-zinc-200 dark:border-zinc-800 pt-8 flex flex-col sm:flex-row items-center justify-center sm:justify-between gap-4 w-full">
+          <p className="text-sm text-zinc-500 dark:text-zinc-400 text-center sm:text-left">
             © {currentYear} {config.org.name}. All rights
             reserved.
           </p>
