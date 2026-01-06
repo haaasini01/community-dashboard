@@ -14,7 +14,7 @@ interface ContributorEntry {
   activities?: Array<{
     type: string;
     title: string;
-    occured_at: string;
+    occurred_at: string;
     link: string;
     points: number;
   }>;
@@ -77,7 +77,7 @@ export async function GET() {
             for(const activity of [...existingActivities, ...newActivities]){
               const identifier = activity.link
                 ? `${activity.type}-${activity.link}`
-                : `${activity.type}-${activity.title}-${activity.occured_at}`;
+                : `${activity.type}-${activity.title}-${activity.occurred_at}`;
               if(!seen.has(identifier)){
                 seen.add(identifier);
                 combined.push(activity);
@@ -86,8 +86,8 @@ export async function GET() {
 
             combined.sort(
               (a, b) =>
-                new Date(b.occured_at).getTime() -
-                new Date(a.occured_at).getTime()
+                new Date(b.occurred_at).getTime() -
+                new Date(a.occurred_at).getTime()
             );
             
             const expectedCount = Object.values(entry.activity_breakdown || {}).reduce((sum, v) => sum + v.count, 0);
@@ -101,9 +101,9 @@ export async function GET() {
                 combined.push({
                   type,
                   title: `${type} contribution`,
-                  occured_at: new Date(0).toISOString(),
+                  occurred_at: new Date(0).toISOString(),
                   link: "",
-                  points: info.points,
+                  points: Math.round(info.points / info.count),
                 });
               }
             }
