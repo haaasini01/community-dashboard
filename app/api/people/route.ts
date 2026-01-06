@@ -84,11 +84,6 @@ export async function GET() {
               }
             }
 
-            combined.sort(
-              (a, b) =>
-                new Date(b.occured_at).getTime() -
-                new Date(a.occured_at).getTime()
-            );
             
             const expectedCount = Object.values(entry.activity_breakdown || {}).reduce((sum, v) => sum + v.count, 0);
 
@@ -101,13 +96,19 @@ export async function GET() {
                 combined.push({
                   type,
                   title: `${type} contribution`,
-                  occured_at: new Date(0).toISOString(),
+                  occured_at: new Date().toISOString(),
                   link: "",
-                  points: info.points,
+                  points: Math.round(info.points / info.count),
                 });
               }
             }
             }
+
+            combined.sort(
+              (a, b) =>
+                new Date(b.occured_at).getTime() -
+                new Date(a.occured_at).getTime()
+            );
 
             allContributors.set(entry.username, {
               ...existing,
