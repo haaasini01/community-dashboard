@@ -194,6 +194,7 @@ export default function LeaderboardView({
   const topRef = useRef<HTMLDivElement | null>(null);
   const scrollToLeaderboardTop = () => {
     if(typeof window === "undefined") return;
+    const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
     requestAnimationFrame(() => {
       if(!topRef.current) return;
@@ -204,7 +205,7 @@ export default function LeaderboardView({
       
       window.scrollTo({
         top: Math.max(absoluteTop - offset, 0),
-        behavior: "smooth",
+        behavior: prefersReducedMotion ? "auto" : "smooth",
       });
     });
   };

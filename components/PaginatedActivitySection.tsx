@@ -39,6 +39,8 @@ export function PaginatedActivitySection({
   const containerRef = useRef<HTMLDivElement | null>(null);
   const scrollSectionToTop = () => {
     if (typeof window === "undefined") return;
+    const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
     requestAnimationFrame(() => {
       if (!containerRef.current) return;
 
@@ -49,7 +51,7 @@ export function PaginatedActivitySection({
 
       window.scrollTo({
         top: Math.max(absoluteTop - offset, 0),
-        behavior: "smooth",
+        behavior: prefersReducedMotion ? "auto" : "smooth",
       });
     });
   };
