@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1767747866275,
+  "updatedAt": 1767766954565,
   "startDate": "2025-12-08",
   "endDate": "2026-01-07",
   "hiddenRoles": [],
@@ -3407,88 +3407,6 @@
       ]
     },
     {
-      "username": "ghanshyam2005singh",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
-      "role": "Contributor",
-      "total_points": 17,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-24",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2025-12-09",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-24T11:52:20Z",
-          "title": "feat - add hover functionality to Getting Started dropdown",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6502",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-24T08:52:11Z",
-          "title": "Fix - Update form control focus border and add green box-shadow",
-          "link": "https://github.com/CircuitVerse/Blog/pull/258",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-09T11:40:00Z",
-          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
-          "link": "https://github.com/CircuitVerse/Blog/pull/256",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-09T13:53:39Z",
-          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
-          "link": "https://github.com/CircuitVerse/Blog/pull/256",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-08T03:46:39Z",
-          "title": "docs - update README with Docusaurus setup instructions (#442)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-24T11:44:46Z",
-          "title": "Enhancement - Add hover-to-open functionality for \"Getting Started\" navbar dropdown",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6501",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Ayush1169",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188789872?v=4",
@@ -3998,6 +3916,76 @@
           "occured_at": "2026-01-03T14:16:52Z",
           "title": "Feature - Ability to Import Online Circuits directly into Simulator",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6553",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "ghanshyam2005singh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
+      "role": "Contributor",
+      "total_points": 12,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-24",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2025-12-09",
+          "count": 2,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-24T11:52:20Z",
+          "title": "feat - add hover functionality to Getting Started dropdown",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6502",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-24T08:52:11Z",
+          "title": "Fix - Update form control focus border and add green box-shadow",
+          "link": "https://github.com/CircuitVerse/Blog/pull/258",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-09T11:40:00Z",
+          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
+          "link": "https://github.com/CircuitVerse/Blog/pull/256",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-09T13:53:39Z",
+          "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
+          "link": "https://github.com/CircuitVerse/Blog/pull/256",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-24T11:44:46Z",
+          "title": "Enhancement - Add hover-to-open functionality for \"Getting Started\" navbar dropdown",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6501",
           "points": 1
         }
       ]
@@ -4627,35 +4615,6 @@
           "title": "Fix #6500 - Resolve Red Flash and ReferenceError in Simulator Navigation",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6551",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "salmoneatenbybear",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
-      "role": "Maintainer",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-08T03:43:45Z",
-          "title": "chore - About page members restructuring",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6444",
-          "points": 5
         }
       ]
     },
