@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1768040840017,
+  "updatedAt": 1768047836482,
   "startDate": "2025-12-11",
   "endDate": "2026-01-10",
   "hiddenRoles": [],
@@ -11,11 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
       "role": "Contributor",
-      "total_points": 182,
+      "total_points": 187,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 24,
-          "points": 96
+          "count": 25,
+          "points": 100
+        },
+        "Issue closed": {
+          "count": 1,
+          "points": 1
         },
         "Issue labeled": {
           "count": 1,
@@ -37,8 +41,8 @@
       "daily_activity": [
         {
           "date": "2026-01-10",
-          "count": 2,
-          "points": 6
+          "count": 4,
+          "points": 11
         },
         {
           "date": "2026-01-09",
@@ -122,6 +126,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-10T10:33:07Z",
+          "title": "Review on PR #187",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-01-10T10:33:14Z",
+          "title": "Closed issue #185 - the graph in the recent activities appears to be moving downwards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/185",
+          "points": 1
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-01-10T10:21:52Z",
@@ -577,8 +595,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
       "role": "Contributor",
-      "total_points": 141,
+      "total_points": 142,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 17,
+          "points": 17
+        },
         "PR opened": {
           "count": 20,
           "points": 40
@@ -587,16 +609,17 @@
           "count": 13,
           "points": 65
         },
-        "Issue opened": {
-          "count": 16,
-          "points": 16
-        },
         "Review submitted": {
           "count": 5,
           "points": 20
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-10",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-01-09",
           "count": 12,
@@ -649,6 +672,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-10T11:00:39Z",
+          "title": "📦 Feat - Publish GitHub Releases for version tracking",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-09T12:29:21Z",
@@ -2641,6 +2671,204 @@
       ]
     },
     {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "role": "Contributor",
+      "total_points": 47,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 8,
+          "points": 16
+        },
+        "PR merged": {
+          "count": 5,
+          "points": 25
+        },
+        "Issue opened": {
+          "count": 6,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-10",
+          "count": 7,
+          "points": 18
+        },
+        {
+          "date": "2026-01-08",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-05",
+          "count": 2,
+          "points": 6
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-01-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-29",
+          "count": 2,
+          "points": 6
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-10T07:22:00Z",
+          "title": "Reorienting the recent activity graph to left to right",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-10T06:16:27Z",
+          "title": "Add repo label tags in the recent activities",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-10T05:16:42Z",
+          "title": "Feat - Add issue triage labels into the leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-10T10:33:13Z",
+          "title": "Reorienting the recent activity graph to left to right",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-10T10:22:12Z",
+          "title": "Feat - Add issue triage labels into the leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-10T06:21:10Z",
+          "title": "the graph in the recent activities appears to be moving downwards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/185",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-10T05:54:10Z",
+          "title": "Adding repo names in the recent activities",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/183",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-08T11:28:05Z",
+          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-05T20:48:38Z",
+          "title": "Leaderboard - UI change and mobile responsiveness",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-05T21:13:25Z",
+          "title": "🐞 Bug - Missing 'File' Menu options in Tauri Simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/721",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-30T22:02:58Z",
+          "title": "modify the ui of leaderboard cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/53",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-26T20:53:57Z",
+          "title": "Add contributor details to People page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T14:37:46Z",
+          "title": "fix - add try-catch in fetch url",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-04T15:37:14Z",
+          "title": "Leaderboard - UI change and mobile responsiveness",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-29T21:27:59Z",
+          "title": "Add contributor details to People page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T14:46:56Z",
+          "title": "fix - add try-catch in fetch url",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-30T21:57:52Z",
+          "title": "Adding the Analytics Page of Circuitverse",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-29T20:52:48Z",
+          "title": "Refactor leaderboard card ui",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/46",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T13:07:49Z",
+          "title": "Feat - add people's page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/2",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "senutpal",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
@@ -2852,197 +3080,6 @@
           "occured_at": "2025-12-14T07:57:55Z",
           "title": "Bug - Fix 'scoll' typo in keyboard shortcuts documentation",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/458",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-      "role": "Contributor",
-      "total_points": 42,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 8,
-          "points": 16
-        },
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        },
-        "Issue opened": {
-          "count": 6,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-10",
-          "count": 6,
-          "points": 13
-        },
-        {
-          "date": "2026-01-08",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-05",
-          "count": 2,
-          "points": 6
-        },
-        {
-          "date": "2025-12-30",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-25",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-01-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-29",
-          "count": 2,
-          "points": 6
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-10T07:22:00Z",
-          "title": "Reorienting the recent activity graph to left to right",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-10T06:16:27Z",
-          "title": "Add repo label tags in the recent activities",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-10T05:16:42Z",
-          "title": "Feat - Add issue triage labels into the leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-10T10:22:12Z",
-          "title": "Feat - Add issue triage labels into the leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-10T06:21:10Z",
-          "title": "the graph in the recent activities appears to be moving downwards",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/185",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-10T05:54:10Z",
-          "title": "Adding repo names in the recent activities",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/183",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-08T11:28:05Z",
-          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-05T20:48:38Z",
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-05T21:13:25Z",
-          "title": "🐞 Bug - Missing 'File' Menu options in Tauri Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/721",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-30T22:02:58Z",
-          "title": "modify the ui of leaderboard cards",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/53",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-26T20:53:57Z",
-          "title": "Add contributor details to People page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T14:37:46Z",
-          "title": "fix - add try-catch in fetch url",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-04T15:37:14Z",
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-29T21:27:59Z",
-          "title": "Add contributor details to People page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T14:46:56Z",
-          "title": "fix - add try-catch in fetch url",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-30T21:57:52Z",
-          "title": "Adding the Analytics Page of Circuitverse",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-29T20:52:48Z",
-          "title": "Refactor leaderboard card ui",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/46",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T13:07:49Z",
-          "title": "Feat - add people's page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/2",
           "points": 1
         }
       ]
@@ -6186,6 +6223,46 @@
       ]
     },
     {
+      "username": "Deepak-negi11",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/177688787?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-10",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-10T10:44:35Z",
+          "title": "Add keyboard shortcut to focus search bar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6604",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-01-10T10:44:37Z",
+          "title": "Labeled issue #6604 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6604",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Mayank7371",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
@@ -6846,35 +6923,6 @@
           "occured_at": "2025-12-11T20:48:39Z",
           "title": "docs - fix Redis command and correct minor spelling mistakes",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6462",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "ayuxsh009",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/149216976?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-11T10:54:38Z",
-          "title": "Fix #6454 - Handle Recaptcha - - RecaptchaError gracefully",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6460",
           "points": 2
         }
       ]

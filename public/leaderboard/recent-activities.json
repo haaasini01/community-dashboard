@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768040840020,
+  "updatedAt": 1768047836485,
   "groups": [
     [
       "2026-01-06",
@@ -481,6 +481,22 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "Review on PR #187",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Closed issue #185 - the graph in the recent activities appears to be moving downwards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/185",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "Review on PR #182",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
@@ -493,6 +509,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/188",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
           "points": 2
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "📦 Feat - Publish GitHub Releases for version tracking",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 1
         },
         {
           "username": "Atharva7126",
@@ -549,6 +573,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/182",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Reorienting the recent activity graph to left to right",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
         },
         {
           "username": "ShinichiShi",
@@ -612,6 +644,22 @@
           "title": "#issue 163 - Updated Footer",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/186",
           "avatar_url": "https://avatars.githubusercontent.com/u/199193524?v=4",
+          "points": 2
+        },
+        {
+          "username": "Deepak-negi11",
+          "name": null,
+          "title": "Add keyboard shortcut to focus search bar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6604",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177688787?v=4",
+          "points": 1
+        },
+        {
+          "username": "Deepak-negi11",
+          "name": null,
+          "title": "Labeled issue #6604 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6604",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177688787?v=4",
           "points": 2
         },
         {
@@ -1217,20 +1265,20 @@
           "points": 1
         },
         {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI - Top Contributors card overlaps on mobile viewport",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/154",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
           "username": "ShinichiShi",
           "name": null,
           "title": "Tauri Simulator - Add menu options for File tab in desktop version",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI - Top Contributors card overlaps on mobile viewport",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/154",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
         },
         {
           "username": "SouparnaChatterjee",
@@ -1992,14 +2040,6 @@
           "points": 1
         },
         {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI Bug - Contributor Username Overflows Profile Card",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/47",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
           "username": "ShinichiShi",
           "name": null,
           "title": "modify the ui of leaderboard cards",
@@ -2013,6 +2053,14 @@
           "title": "Adding the Analytics Page of Circuitverse",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI Bug - Contributor Username Overflows Profile Card",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/47",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         },
         {
@@ -2330,6 +2378,14 @@
           "points": 1
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Leaderboard - UI change and mobile responsiveness",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
@@ -2344,14 +2400,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
         },
         {
           "username": "SouparnaChatterjee",
@@ -3294,6 +3342,22 @@
           "points": 2
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Add contributor details to People page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Refactor leaderboard card ui",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/46",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "fix(ui) - improve leaderboard search layout",
@@ -3323,22 +3387,6 @@
           "title": "🐞 Bug - Grammar and Spelling Issues in Comments and Tutorial Text",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6521",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Add contributor details to People page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Refactor leaderboard card ui",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/46",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 1
         },
         {
