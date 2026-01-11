@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768092918217,
+  "updatedAt": 1768112153733,
   "groups": [
     [
       "2026-01-10",
@@ -3486,6 +3486,43 @@
           "title": "Fix - Use modern beforeunload API to prevent blocked alert dialog (#6519)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6525",
           "avatar_url": "https://avatars.githubusercontent.com/u/111638785?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-01-11",
+      [
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor - remove jQuery from minimap.js",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/764",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
+          "points": 2
+        },
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor - remove jQuery from drag.ts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/763",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
+          "points": 2
+        },
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor - remove jQuery from utils.ts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/762",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
+          "points": 2
+        },
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor - remove jQuery from ux.js",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/761",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
           "points": 2
         }
       ]

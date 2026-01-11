@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1768092918211,
+  "updatedAt": 1768112153727,
   "startDate": "2026-01-04",
   "endDate": "2026-01-11",
   "hiddenRoles": [],
@@ -390,15 +390,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
       "role": "Contributor",
-      "total_points": 75,
+      "total_points": 74,
       "activity_breakdown": {
         "PR opened": {
           "count": 10,
           "points": 20
         },
         "Issue opened": {
-          "count": 10,
-          "points": 10
+          "count": 9,
+          "points": 9
         },
         "PR merged": {
           "count": 5,
@@ -432,8 +432,8 @@
         },
         {
           "date": "2026-01-04",
-          "count": 3,
-          "points": 4
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
@@ -638,13 +638,6 @@
           "occured_at": "2026-01-04T08:03:12Z",
           "title": "Feat - add release page",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/99",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-04T04:54:22Z",
-          "title": "BUG - fix UI",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/96",
           "points": 1
         }
       ]
@@ -2500,6 +2493,56 @@
       ]
     },
     {
+      "username": "pantha704",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-11",
+          "count": 4,
+          "points": 8
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T04:51:11Z",
+          "title": "refactor - remove jQuery from minimap.js",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/764",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T04:51:10Z",
+          "title": "refactor - remove jQuery from drag.ts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/763",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T04:51:08Z",
+          "title": "refactor - remove jQuery from utils.ts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/762",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T04:36:34Z",
+          "title": "refactor - remove jQuery from ux.js",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/761",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "rolex-67",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/179861712?v=4",
@@ -2639,15 +2682,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
       "role": "Contributor",
-      "total_points": 7,
+      "total_points": 5,
       "activity_breakdown": {
         "Issue opened": {
           "count": 3,
           "points": 3
         },
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 1,
+          "points": 2
         }
       },
       "daily_activity": [
@@ -2660,11 +2703,6 @@
           "date": "2026-01-05",
           "count": 3,
           "points": 4
-        },
-        {
-          "date": "2026-01-04",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -2695,13 +2733,6 @@
           "title": "Feature -",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/718",
           "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-04T05:02:00Z",
-          "title": "feat - Implement 'Import Online Circuit' in Simulator",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6561",
-          "points": 2
         }
       ]
     },
@@ -3169,35 +3200,6 @@
           "occured_at": "2026-01-06T06:28:37Z",
           "title": "fix(mailer) - patch aws-actionmailer-ses to wrap recipients in array",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6570",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "ViRUS-0-0",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-04",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-04T06:07:29Z",
-          "title": "Fixed Uncaught Error - Minified React error",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/97",
           "points": 2
         }
       ]
