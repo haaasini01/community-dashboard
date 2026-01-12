@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768155279454,
+  "updatedAt": 1768179191701,
   "groups": [
     [
       "2026-01-10",
@@ -93,46 +93,6 @@
           "points": 4
         },
         {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "footer layout issue fix",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/192",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "fix - complete export/import functionality with backward compatibility",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/756",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "footer layout issue fix",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/192",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "UI bug - Footer links have oversized clickable areas extending beyond visible text",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/191",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "🐞 Bug - Circuit Export/Import Feature Completely Broken - Files Save as \"object Object\"",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/755",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
           "username": "ShinichiShi",
           "name": null,
           "title": "Reorienting the recent activity graph to left to right",
@@ -186,6 +146,46 @@
           "title": "Adding repo names in the recent activities",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/183",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "footer layout issue fix",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/192",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "fix - complete export/import functionality with backward compatibility",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/756",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "footer layout issue fix",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/192",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 5
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "UI bug - Footer links have oversized clickable areas extending beyond visible text",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/191",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "🐞 Bug - Circuit Export/Import Feature Completely Broken - Files Save as \"object Object\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/755",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -838,10 +838,42 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "fix - remove leftover v0 build references and fix Tauri desktop build",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/782",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "🐞 Bug - Fix npm install failing due to Vuetify dependency conflict",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/779",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Bug - Panel minimize icons do not collapse panels in CircuitVerse Tauri app and Verilog module also behaves incorrectly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/783",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Mobile View - Page Overflow on Smaller Viewports (Y-axis)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/199",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Bug - vite - Rollup failed to resolve import \"/v0/src/main.ts\" from \"index-cv.html\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/780",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
         },
         {
           "username": "naman79820",
@@ -854,6 +886,14 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "Review on PR #184",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "Review on PR #164",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/164",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
@@ -862,10 +902,26 @@
         {
           "username": "tachyons",
           "name": null,
+          "title": "Rewrite build setup for simpler integration workflow",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/781",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
           "title": "remove src folder and symlink that dir to v0/src",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/774",
           "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
           "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Rewrite build setup for simpler integration workflow",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/781",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 5
         },
         {
           "username": "tachyons",
@@ -900,6 +956,38 @@
           "points": 4
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Add repo label tags in the recent activities",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "🐞 Bug - Tauri The verilog code is stuck in compile phase",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/785",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "🐞 Bug - Tauri The themes do not apply to verilog module",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/784",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
           "username": "Me-Priyank",
           "name": null,
           "title": "fix - resolve circuit save/open offline localStorage…",
@@ -914,14 +1002,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/777",
           "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
         },
         {
           "username": "himanshujays29",
@@ -1742,6 +1822,14 @@
           "points": 4
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
           "username": "haaasini01",
           "name": null,
           "title": "fix - search matching aggregate metrics on people page",
@@ -1780,14 +1868,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/157",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Tauri Simulator - Add menu options for File tab in desktop version",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/740",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
         },
         {
           "username": "himanshujays29",
@@ -2256,6 +2336,22 @@
           "points": 4
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Leaderboard - UI change and mobile responsiveness",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "🐞 Bug - Missing 'File' Menu options in Tauri Simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/721",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
           "username": "Me-Priyank",
           "name": null,
           "title": "Added concurrency control to prevent race conditions",
@@ -2357,22 +2453,6 @@
           "title": "Recent Contributions missing for some contributor profiles",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/128",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "🐞 Bug - Missing 'File' Menu options in Tauri Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/721",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 1
         },
         {
@@ -2541,6 +2621,22 @@
           "points": 1
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "modify the ui of leaderboard cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/53",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Adding the Analytics Page of Circuitverse",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
           "username": "Me-Priyank",
           "name": null,
           "title": "Contributor UI enhancement",
@@ -2562,22 +2658,6 @@
           "title": "Feature Request - Enable justified text for docs content",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "modify the ui of leaderboard cards",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/53",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Adding the Analytics Page of Circuitverse",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 1
         },
         {
@@ -2746,6 +2826,14 @@
           "points": 1
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Leaderboard - UI change and mobile responsiveness",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
           "username": "haaasini01",
           "name": null,
           "title": "fix - reflect actual rank while searching",
@@ -2768,14 +2856,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/110",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
         },
         {
           "username": "himanshujays29",
@@ -3718,131 +3798,6 @@
           "title": "fix - canvas rendering issue after DevTools resize",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/709",
           "avatar_url": "https://avatars.githubusercontent.com/u/183717561?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2025-12-29",
-      [
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Bug - Fixed graph logic to show actual data",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/44",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Add contributor details to People page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Refactor leaderboard card ui",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/46",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "fix(ui) - improve leaderboard search layout",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Fix - grammar and spelling mistakes in comments and tutorials",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6523",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "fix(ui) - improve leaderboard search layout",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/45",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "🐞 Bug - Grammar and Spelling Issues in Comments and Tutorial Text",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6521",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "refactor - migrate restrictedElementDiv.js to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/705",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "fix(simulator) - syncing webview and native",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/456",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 2
-        },
-        {
-          "username": "vivekyadav-3",
-          "name": null,
-          "title": "fix - improve spacing between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-          "points": 2
-        },
-        {
-          "username": "gautamsidhwani29",
-          "name": null,
-          "title": "feat(leaderboard) - add tooltip explaining contribution scoring",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/43",
-          "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
-          "points": 2
-        },
-        {
-          "username": "gautamsidhwani29",
-          "name": null,
-          "title": "Feat - Clarify leaderboard ranking logic using a tooltip indicator",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
-          "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
-          "points": 1
-        },
-        {
-          "username": "KARDT89",
-          "name": null,
-          "title": "issue-6522/fix-navbar-logo-alignment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6524",
-          "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
-          "points": 2
-        },
-        {
-          "username": "KARDT89",
-          "name": null,
-          "title": "🐞 Bug Navbar logo appears vertically misaligned on desktop and tablet viewports",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6522",
-          "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
-          "points": 1
-        },
-        {
-          "username": "riazation42",
-          "name": null,
-          "title": "Fix - Use modern beforeunload API to prevent blocked alert dialog (#6519)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6525",
-          "avatar_url": "https://avatars.githubusercontent.com/u/111638785?v=4",
           "points": 2
         }
       ]
