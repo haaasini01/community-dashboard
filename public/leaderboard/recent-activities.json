@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768220515858,
+  "updatedAt": 1768241795485,
   "groups": [
     [
       "2026-01-10",
@@ -45,22 +45,6 @@
           "points": 4
         },
         {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "feat - add GitHub Releases workflow for version tracking",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/754",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "📦 Feat - Publish GitHub Releases for version tracking",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
           "username": "Atharva7126",
           "name": null,
           "title": "Feat - implement multi-view home dashboard with repository-wise metrics",
@@ -91,6 +75,22 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
           "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 4
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "feat - add GitHub Releases workflow for version tracking",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/754",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "📦 Feat - Publish GitHub Releases for version tracking",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 1
         },
         {
           "username": "ShinichiShi",
@@ -197,30 +197,6 @@
           "points": 2
         },
         {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Feat - Enable click-to-copy for email address in footer",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/190",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Feat - Enable click-to-copy for email address in footer",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/190",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 5
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Feat - Enable click-to-copy for email address in footer",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/188",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
           "username": "akshitvigg",
           "name": null,
           "title": "feat - set leaderboard default to show top 50 contributors instead of all",
@@ -261,6 +237,30 @@
           "points": 1
         },
         {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Feat - Enable click-to-copy for email address in footer",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/190",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Feat - Enable click-to-copy for email address in footer",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/190",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 5
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Feat - Enable click-to-copy for email address in footer",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/188",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 1
+        },
+        {
           "username": "ShashwatXD",
           "name": null,
           "title": "fix(pub) - resolved dependencies",
@@ -277,22 +277,6 @@
           "points": 5
         },
         {
-          "username": "yats0x7",
-          "name": null,
-          "title": "Chore - Remove unused legacy i18n code (#757)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/760",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
-          "points": 2
-        },
-        {
-          "username": "yats0x7",
-          "name": null,
-          "title": "Chore - Remove unused legacy i18n code in simulator/src",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/757",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
-          "points": 1
-        },
-        {
           "username": "JANVI-CHATURVEDI",
           "name": null,
           "title": "Fix footer FAQ link to point to correct documentation faq page",
@@ -306,6 +290,22 @@
           "title": "🐞 Bug - Footer FAQ link points to wrong documentation page",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6601",
           "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
+          "username": "yats0x7",
+          "name": null,
+          "title": "Chore - Remove unused legacy i18n code (#757)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/760",
+          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
+          "points": 2
+        },
+        {
+          "username": "yats0x7",
+          "name": null,
+          "title": "Chore - Remove unused legacy i18n code in simulator/src",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/757",
+          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
           "points": 1
         },
         {
@@ -602,6 +602,14 @@
           "points": 1
         },
         {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "feat - add skeleton loading cards for leaderboard page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/139",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 2
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "Fix - N+1 query in FeaturedCircuitsController",
@@ -616,14 +624,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/723",
           "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
           "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "feat - add skeleton loading cards for leaderboard page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/139",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 2
         },
         {
           "username": "senutpal",
@@ -846,6 +846,22 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "Review on PR #200",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #202",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/202",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "Review on PR #198",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
@@ -908,6 +924,30 @@
           "points": 2
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - introduce repository-specific analytics and enhanced home dashboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #201",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #196",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "fix - correct \"Edit this page\" GitHub URL path",
@@ -916,12 +956,12 @@
           "points": 2
         },
         {
-          "username": "Yana-do-code",
+          "username": "himanshujays29",
           "name": null,
-          "title": "fix - Clarify leaderboard update timing and fix timestamp handling",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 5
+          "title": "Feature - Add clickable links to repo Issues and PR stats",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/203",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
         },
         {
           "username": "akshitvigg",
@@ -930,6 +970,22 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/202",
           "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
           "points": 2
+        },
+        {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "fix - Prevent unwanted horizontal scroll on mobile by adding overflow…",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/202",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 5
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "fix - Clarify leaderboard update timing and fix timestamp handling",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 5
         },
         {
           "username": "Teesta-Mukherjee",
@@ -972,6 +1028,30 @@
           "points": 1
         },
         {
+          "username": "Aditya30ag",
+          "name": null,
+          "title": "Fix/code quality improvements",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6619",
+          "avatar_url": "https://avatars.githubusercontent.com/u/162010355?v=4",
+          "points": 2
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Improve tags page clear filter UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6618",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 2
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Tag filter state is not clearly indicated and cannot be easily cleared",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
           "username": "manash213cyber",
           "name": null,
           "title": "fix broken 'Edit this page' link",
@@ -1009,6 +1089,14 @@
           "title": "🐞 Bug - Rails asset error - application.js not present in asset pipeline",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6615",
           "avatar_url": "https://avatars.githubusercontent.com/u/196954700?v=4",
+          "points": 1
+        },
+        {
+          "username": "Nid-debug",
+          "name": null,
+          "title": "UI - Navbar appears left-aligned instead of centered",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6620",
+          "avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4",
           "points": 1
         }
       ]
@@ -1193,6 +1281,30 @@
           "points": 1
         },
         {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "fix - leaderboard card ring alignment for consistent sizing in tab view",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 2
+        },
+        {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "chore - remove unused banana-i18n dead code",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/759",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 5
+        },
+        {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "Bug - Leaderboard Top 3 Highlight Ring Misalignment on Tablet View (Uneven Card Heights)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/195",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 1
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "fix - Clarify leaderboard update timing and fix timestamp handling",
@@ -1238,30 +1350,6 @@
           "title": "“Data last updated” timestamp does not reflect actual update interval",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/197",
           "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "fix - leaderboard card ring alignment for consistent sizing in tab view",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 2
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "chore - remove unused banana-i18n dead code",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/759",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 5
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "Bug - Leaderboard Top 3 Highlight Ring Misalignment on Tablet View (Uneven Card Heights)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/195",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
           "points": 1
         },
         {
@@ -1486,6 +1574,78 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - adjust YouTube video iframe On Chapter 3 for responsive width and correct title",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - Enhanced Home Dashboard with Repository-wise Statistics View",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/180",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - Release page missing from footer “Pages” section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/163",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - Mobile layout overflow on small screens causing content overlap and clipping",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/162",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #165",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/165",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #175",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/175",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #165",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/165",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #164",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/164",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #155",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "docs - add CONTRIBUTING.md with @bot claim/drop commands",
@@ -1582,78 +1742,6 @@
           "points": 4
         },
         {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - adjust YouTube video iframe On Chapter 3 for responsive width and correct title",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Enhanced Home Dashboard with Repository-wise Statistics View",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/180",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Bug - Release page missing from footer “Pages” section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/163",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Bug - Mobile layout overflow on small screens causing content overlap and clipping",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/162",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #165",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/165",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #175",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/175",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #165",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/165",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #164",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/164",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #155",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
           "username": "Me-Priyank",
           "name": null,
           "title": "Added footer navigation under the Pages section",
@@ -1702,22 +1790,6 @@
           "points": 1
         },
         {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "fix - add Windows CI support and improve build tooling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/752",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "fix(windows) - unblock tauri build by wiring Windows SDK libs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/751",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
           "username": "akshitvigg",
           "name": null,
           "title": "mobile card uses grid card structure",
@@ -1732,6 +1804,22 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
           "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
           "points": 5
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "fix - add Windows CI support and improve build tooling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/752",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "fix(windows) - unblock tauri build by wiring Windows SDK libs",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/751",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
         },
         {
           "username": "Ayush1169",
@@ -1907,6 +1995,14 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #155",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "fix - prevent components from overlapping when placed from sidebar",
@@ -1995,14 +2091,6 @@
           "points": 4
         },
         {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #155",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
           "username": "ShinichiShi",
           "name": null,
           "title": "Tauri Simulator - Add menu options for File tab in desktop version",
@@ -2059,6 +2147,14 @@
           "points": 1
         },
         {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "feat(leaderboard) - persist layout across period changes",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 2
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "Fix - UTF-8 encoding errors and empty tag routing issues",
@@ -2073,14 +2169,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/743",
           "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
           "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "feat(leaderboard) - persist layout across period changes",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/155",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 2
         },
         {
           "username": "SouparnaChatterjee",
@@ -2240,6 +2328,14 @@
           "points": 1
         },
         {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "feat - add skeleton loading cards for leaderboard page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/139",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 5
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "Fix - PostgreSQL btree index size limit exceeded error for project slugs",
@@ -2254,14 +2350,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/730",
           "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
           "points": 2
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "feat - add skeleton loading cards for leaderboard page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/139",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 5
         },
         {
           "username": "SouparnaChatterjee",
@@ -2493,6 +2581,14 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #116",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/116",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "feat - Add Review Analytics Dashboard with Maintainer Roles (#101)",
@@ -2507,14 +2603,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6559",
           "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
           "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #116",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/116",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
         },
         {
           "username": "ShinichiShi",
@@ -2975,6 +3063,14 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - Add a Release Page for Contributors Leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/104",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "feat - Add Review Analytics Dashboard with Maintainer Roles (#101)",
@@ -2996,14 +3092,6 @@
           "title": "BUG - fix UI",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/96",
           "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Add a Release Page for Contributors Leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/104",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 1
         },
         {
@@ -3055,6 +3143,14 @@
           "points": 5
         },
         {
+          "username": "akshitvigg",
+          "name": null,
+          "title": "docs - fix duplicated words in documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/481",
+          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
+          "points": 5
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "fix - search bar box with a green outline border",
@@ -3069,14 +3165,6 @@
           "link": "https://github.com/CircuitVerse/Blog/issues/262",
           "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
           "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "docs - fix duplicated words in documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/481",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 5
         },
         {
           "username": "SouparnaChatterjee",
@@ -3260,6 +3348,14 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - Top Contributors UI breaks on mobile viewport",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/82",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "Add Hardik Sachdeva to core team on About page",
@@ -3305,14 +3401,6 @@
           "title": "updating the core member list",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/91",
           "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Bug - Top Contributors UI breaks on mobile viewport",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/82",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 1
         },
         {
@@ -3726,6 +3814,22 @@
           "points": 4
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix month-over-month statistics by comparing correct date ranges",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/74",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix month-over-month statistics by comparing correct date ranges",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/74",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
           "username": "Git-HimanshuRathi",
           "name": null,
           "title": "fix - correct heatmap year display and add year switching (#61)",
@@ -3763,22 +3867,6 @@
           "title": "Fix - Footer shows incorrect \"Data last updated\" timestamp",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/71",
           "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix month-over-month statistics by comparing correct date ranges",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/74",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix month-over-month statistics by comparing correct date ranges",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/74",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 5
         },
         {
@@ -3918,6 +4006,14 @@
           "points": 2
         },
         {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "🐞 Bug - Signup page shows “Login with” above social auth buttons",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6545",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
           "username": "manash213cyber",
           "name": null,
           "title": "Improve readability of text above Figure 4.18 in Chapter 4 docs",
@@ -3940,14 +4036,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/76",
           "avatar_url": "https://avatars.githubusercontent.com/u/188545053?v=4",
           "points": 2
-        },
-        {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "🐞 Bug - Signup page shows “Login with” above social auth buttons",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6545",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 1
         },
         {
           "username": "sujal-thakur01",
