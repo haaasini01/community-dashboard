@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1768241795481,
-  "startDate": "2025-12-13",
-  "endDate": "2026-01-12",
+  "updatedAt": 1768265078687,
+  "startDate": "2025-12-14",
+  "endDate": "2026-01-13",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,8 +11,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 216,
+      "total_points": 218,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 16,
+          "points": 32
+        },
         "Issue opened": {
           "count": 23,
           "points": 23
@@ -20,10 +24,6 @@
         "Review submitted": {
           "count": 32,
           "points": 128
-        },
-        "PR opened": {
-          "count": 15,
-          "points": 30
         },
         "PR merged": {
           "count": 7,
@@ -33,8 +33,8 @@
       "daily_activity": [
         {
           "date": "2026-01-12",
-          "count": 4,
-          "points": 13
+          "count": 6,
+          "points": 16
         },
         {
           "date": "2026-01-11",
@@ -115,14 +115,23 @@
           "date": "2025-12-26",
           "count": 1,
           "points": 1
-        },
-        {
-          "date": "2025-12-13",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T20:03:01Z",
+          "title": "Fix panel minimize/collapse not working on initial Tauri launch",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/791",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-12T20:36:25Z",
+          "title": "🐞 Bug - Verilog module does not initialize correctly on first launch in Tauri app (works after refresh)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "points": 1
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-01-12T10:15:18Z",
@@ -625,13 +634,6 @@
           "occured_at": "2025-12-25T13:28:15Z",
           "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-13T20:21:33Z",
-          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
           "points": 1
         },
         {
@@ -2283,11 +2285,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 83,
+      "total_points": 85,
       "activity_breakdown": {
         "PR opened": {
-          "count": 14,
-          "points": 28
+          "count": 15,
+          "points": 30
         },
         "Issue opened": {
           "count": 15,
@@ -2301,8 +2303,8 @@
       "daily_activity": [
         {
           "date": "2026-01-12",
-          "count": 2,
-          "points": 3
+          "count": 3,
+          "points": 5
         },
         {
           "date": "2026-01-11",
@@ -2386,6 +2388,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T18:22:03Z",
+          "title": "feat - make Issues, Open PRs, and Merged PR stats clickable on repo cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/204",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-12T09:00:21Z",
@@ -6395,6 +6404,49 @@
       ]
     },
     {
+      "username": "Harshitshukla0208",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/120409631?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-12",
+          "count": 3,
+          "points": 6
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T22:17:33Z",
+          "title": "fix(issue) - Address issue #6564 - Feature - add a border outline in the search bar box",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6624",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T22:15:58Z",
+          "title": "fix(issue) - Address issue #6596 - ActionView - - Template - - Error - No route matches { - action=>\"show\", - controller=>\"tags\", - tag=>\"\"}, missing required keys - - tag (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6623",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T21:26:47Z",
+          "title": "fix(issue) - Address issue #6620 - UI - Navbar appears left-aligned instead of centered",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6622",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Agarwalchetan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/182099875?v=4",
@@ -7354,6 +7406,35 @@
           "occured_at": "2025-12-23T13:40:02Z",
           "title": "Migrate from Sprockets to Propshaft + Vite",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6499",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "31groot",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159657559?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-12",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T20:16:56Z",
+          "title": "fix - prevent crash when search query contains null byte (#6612)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6621",
           "points": 2
         }
       ]
