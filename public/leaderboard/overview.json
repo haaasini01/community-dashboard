@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768525519072,
+  "updatedAt": 1768611755265,
   "period": "Last_30days",
   "repos": [
     {
@@ -29,19 +29,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1131,
-      "forks": 1873,
+      "stars": 1133,
+      "forks": 1877,
       "current": {
-        "pr_opened": 88,
-        "pr_merged": 9,
+        "pr_opened": 91,
+        "pr_merged": 10,
         "issue_created": 37,
-        "currentTotalContribution": 134
+        "currentTotalContribution": 138
       },
       "previous": {
         "pr_merged": 5
       },
       "growth": {
-        "pr_merged": 4
+        "pr_merged": 5
       }
     },
     {
@@ -53,10 +53,10 @@
       "stars": 158,
       "forks": 233,
       "current": {
-        "pr_opened": 6,
+        "pr_opened": 7,
         "pr_merged": 3,
-        "issue_created": 4,
-        "currentTotalContribution": 13
+        "issue_created": 6,
+        "currentTotalContribution": 16
       },
       "previous": {
         "pr_merged": 2
@@ -92,7 +92,7 @@
       "language": "Dart",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/mobile-app",
-      "stars": 88,
+      "stars": 89,
       "forks": 128,
       "current": {
         "pr_opened": 8,
@@ -326,10 +326,10 @@
       "stars": 46,
       "forks": 207,
       "current": {
-        "pr_opened": 63,
+        "pr_opened": 65,
         "pr_merged": 13,
-        "issue_created": 46,
-        "currentTotalContribution": 122
+        "issue_created": 47,
+        "currentTotalContribution": 125
       },
       "previous": {
         "pr_merged": 1
@@ -410,10 +410,10 @@
       "stars": 9,
       "forks": 33,
       "current": {
-        "pr_opened": 109,
+        "pr_opened": 110,
         "pr_merged": 87,
         "issue_created": 103,
-        "currentTotalContribution": 299
+        "currentTotalContribution": 300
       },
       "previous": {
         "pr_merged": 0
