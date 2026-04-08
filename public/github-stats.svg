@@ -91,9 +91,9 @@
         <rect x="0" y="0" width="180" height="10" rx="4"/>
       </clipPath>
       <g clip-path="url(#prsClip)">
-        <rect x="0" y="0" width="32.808660035108254" height="10" fill="#22c55e"/>
-        <rect x="32.808660035108254" y="0" width="73.83265067290813" height="10" fill="#a855f7"/>
-        <rect x="106.64131070801639" y="0" width="73.35868929198362" height="10" fill="#ef4444"/>
+        <rect x="0" y="0" width="32.873227079982456" height="10" fill="#22c55e"/>
+        <rect x="32.873227079982456" y="0" width="73.80026319637373" height="10" fill="#a855f7"/>
+        <rect x="106.67349027635619" y="0" width="73.32650972364381" height="10" fill="#ef4444"/>
       </g>
     </g>
   
