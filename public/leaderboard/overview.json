@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777514911879,
+  "updatedAt": 1777601565139,
   "period": "Last_30days",
   "repos": [
     {
@@ -30,12 +30,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse",
       "stars": 1197,
-      "forks": 2018,
+      "forks": 2016,
       "current": {
         "pr_opened": 16,
         "pr_merged": 8,
-        "issue_created": 17,
-        "currentTotalContribution": 41
+        "issue_created": 15,
+        "currentTotalContribution": 39
       },
       "previous": {
         "pr_merged": 7
@@ -95,10 +95,10 @@
       "stars": 91,
       "forks": 142,
       "current": {
-        "pr_opened": 2,
+        "pr_opened": 1,
         "pr_merged": 0,
-        "issue_created": 3,
-        "currentTotalContribution": 5
+        "issue_created": 1,
+        "currentTotalContribution": 2
       },
       "previous": {
         "pr_merged": 0
