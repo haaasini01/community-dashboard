@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1777687088093,
-  "startDate": "2026-04-02",
-  "endDate": "2026-05-02",
+  "updatedAt": 1777773727044,
+  "startDate": "2026-04-03",
+  "endDate": "2026-05-03",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -1227,35 +1227,6 @@
       ]
     },
     {
-      "username": "LalitNarayanYadav",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/162928571?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-04-02",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-04-02T20:51:37Z",
-          "title": "fix(flip-flops) - resolve inconsistent latch vs flip-flop concepts",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/777",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Ram-sah19",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/208265520?v=4",
@@ -1280,35 +1251,6 @@
           "occured_at": "2026-04-04T05:52:07Z",
           "title": "Fix - Blue color glitch on \"Learn Logic Design\" page (dark mode rendering issue)",
           "link": "https://github.com/CircuitVerse/Interactive-Book/pull/778",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "mounika63020-blip",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/267663802?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-04-02",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-04-02T13:27:19Z",
-          "title": "Fix Windows sync error handling using robust syscall.Errno unwrapping",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7240",
           "points": 2
         }
       ]
@@ -1367,35 +1309,6 @@
           "occured_at": "2026-04-15T06:01:08Z",
           "title": "fix - add Hindi localization for Recent Circuits section",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7303",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "subikshajegadish",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/87119985?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-04-02",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-04-02T03:33:06Z",
-          "title": "Fix TypeError when page param is not a hash in paginate",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7238",
           "points": 2
         }
       ]

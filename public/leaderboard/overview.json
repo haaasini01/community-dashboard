@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777687184788,
+  "updatedAt": 1777773822796,
   "period": "Last_30days",
   "repos": [
     {
@@ -30,18 +30,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse",
       "stars": 1196,
-      "forks": 2016,
+      "forks": 2014,
       "current": {
-        "pr_opened": 16,
+        "pr_opened": 14,
         "pr_merged": 8,
-        "issue_created": 14,
-        "currentTotalContribution": 38
+        "issue_created": 13,
+        "currentTotalContribution": 35
       },
       "previous": {
-        "pr_merged": 6
+        "pr_merged": 4
       },
       "growth": {
-        "pr_merged": 2
+        "pr_merged": 4
       }
     },
     {
@@ -53,10 +53,10 @@
       "stars": 163,
       "forks": 244,
       "current": {
-        "pr_opened": 2,
+        "pr_opened": 1,
         "pr_merged": 1,
         "issue_created": 0,
-        "currentTotalContribution": 3
+        "currentTotalContribution": 2
       },
       "previous": {
         "pr_merged": 0
@@ -92,7 +92,7 @@
       "language": "Dart",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/mobile-app",
-      "stars": 91,
+      "stars": 92,
       "forks": 142,
       "current": {
         "pr_opened": 1,
