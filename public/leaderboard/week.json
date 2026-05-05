@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1777860145633,
-  "startDate": "2026-04-27",
-  "endDate": "2026-05-04",
+  "updatedAt": 1777946539127,
+  "startDate": "2026-04-28",
+  "endDate": "2026-05-05",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,18 +11,23 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159920447?v=4",
       "role": "Contributor",
-      "total_points": 3,
+      "total_points": 6,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 2,
+          "points": 2
         },
         "Issue labeled": {
-          "count": 1,
-          "points": 2
+          "count": 2,
+          "points": 4
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-04",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-05-03",
           "count": 2,
@@ -30,6 +35,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-04T07:37:09Z",
+          "title": "🐞 Bug - Image upload in simulator fails due to Imgur API error",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-04T07:37:10Z",
+          "title": "Labeled issue #7342 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-05-03T07:41:02Z",

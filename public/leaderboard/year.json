@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1777860145621,
-  "lastFetchedAt": 1777860145621,
-  "startDate": "2025-05-04",
-  "endDate": "2026-05-04",
+  "updatedAt": 1777946539116,
+  "lastFetchedAt": 1777946539116,
+  "startDate": "2025-05-05",
+  "endDate": "2026-05-05",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -34683,6 +34683,81 @@
       ]
     },
     {
+      "username": "sahiladit",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159920447?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-04",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-05-03",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-01-24",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-04T07:37:09Z",
+          "title": "🐞 Bug - Image upload in simulator fails due to Imgur API error",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-04T07:37:10Z",
+          "title": "Labeled issue #7342 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-03T07:41:02Z",
+          "title": "Feature - Improve Advanced Search filter with suggestions",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7340",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-03T07:41:03Z",
+          "title": "Labeled issue #7340 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7340",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-01-24T15:52:31Z",
+          "title": "Fix/#5336 - alignment of star and eye icon corrected",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/5349",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "LalitNarayanYadav",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/162928571?v=4",
@@ -37103,62 +37178,6 @@
           "title": "UX/Enhancement - Improve Project Name input - add maxlength and update label",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "sahiladit",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159920447?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-03",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-01-24",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-03T07:41:02Z",
-          "title": "Feature - Improve Advanced Search filter with suggestions",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7340",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-03T07:41:03Z",
-          "title": "Labeled issue #7340 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7340",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-01-24T15:52:31Z",
-          "title": "Fix/#5336 - alignment of star and eye icon corrected",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/5349",
-          "points": 2
         }
       ]
     },
