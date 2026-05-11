@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778378712000,
+  "updatedAt": 1778465675635,
   "groups": [
     [
       "2026-05-05",
@@ -336,6 +336,35 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7352",
           "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
           "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-05-10",
+      [
+        {
+          "username": "satu0king",
+          "name": null,
+          "title": "🛑 Docs is down",
+          "link": "https://github.com/CircuitVerse/upptime/issues/179",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
+          "points": 1
+        },
+        {
+          "username": "satu0king",
+          "name": null,
+          "title": "Labeled issue #179 - status",
+          "link": "https://github.com/CircuitVerse/upptime/issues/179",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saurabhtbj1201",
+          "name": null,
+          "title": "Review on PR #7347",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7347",
+          "avatar_url": "https://avatars.githubusercontent.com/u/147180839?u=617125d28f6b4587507f97149bd79af95da0a3dd&v=4",
+          "points": 4
         }
       ]
     ],

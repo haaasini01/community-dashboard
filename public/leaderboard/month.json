@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1778378711996,
-  "startDate": "2026-04-10",
-  "endDate": "2026-05-10",
+  "updatedAt": 1778465675630,
+  "startDate": "2026-04-11",
+  "endDate": "2026-05-11",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -922,6 +922,113 @@
       ]
     },
     {
+      "username": "satu0king",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
+      "role": "Maintainer",
+      "total_points": 8,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-10",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-04-14",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-10T07:26:43Z",
+          "title": "🛑 Docs is down",
+          "link": "https://github.com/CircuitVerse/upptime/issues/179",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-10T07:26:44Z",
+          "title": "Labeled issue #179 - status",
+          "link": "https://github.com/CircuitVerse/upptime/issues/179",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-04-14T20:35:57Z",
+          "title": "🛑 Main Platform is down",
+          "link": "https://github.com/CircuitVerse/upptime/issues/178",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-04-14T20:35:58Z",
+          "title": "Labeled issue #178 - status",
+          "link": "https://github.com/CircuitVerse/upptime/issues/178",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-04-14T20:35:59Z",
+          "title": "Labeled issue #178 - main-platform",
+          "link": "https://github.com/CircuitVerse/upptime/issues/178",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Saurabhtbj1201",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/147180839?u=617125d28f6b4587507f97149bd79af95da0a3dd&v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 2,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-10",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-05-05",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-05-10T07:53:35Z",
+          "title": "Review on PR #7347",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7347",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-05-05T16:38:52Z",
+          "title": "Review on PR #7336",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7336",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "RAJEEVTIWARI8052",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180764866?v=4",
@@ -1077,53 +1184,6 @@
           "occured_at": "2026-05-07T17:16:29Z",
           "title": "Labeled issue #1045 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1045",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "satu0king",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
-      "role": "Maintainer",
-      "total_points": 5,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-04-14",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-04-14T20:35:57Z",
-          "title": "🛑 Main Platform is down",
-          "link": "https://github.com/CircuitVerse/upptime/issues/178",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-04-14T20:35:58Z",
-          "title": "Labeled issue #178 - status",
-          "link": "https://github.com/CircuitVerse/upptime/issues/178",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-04-14T20:35:59Z",
-          "title": "Labeled issue #178 - main-platform",
-          "link": "https://github.com/CircuitVerse/upptime/issues/178",
           "points": 2
         }
       ]
@@ -1291,35 +1351,6 @@
           "occured_at": "2026-05-09T15:59:34Z",
           "title": "Review on PR #1046",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1046",
-          "points": 4
-        }
-      ]
-    },
-    {
-      "username": "Saurabhtbj1201",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/147180839?u=617125d28f6b4587507f97149bd79af95da0a3dd&v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-05",
-          "count": 1,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-05-05T16:38:52Z",
-          "title": "Review on PR #7336",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7336",
           "points": 4
         }
       ]
