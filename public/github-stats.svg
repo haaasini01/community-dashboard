@@ -91,9 +91,9 @@
         <rect x="0" y="0" width="180" height="10" rx="4"/>
       </clipPath>
       <g clip-path="url(#prsClip)">
-        <rect x="0" y="0" width="28.336554184629104" height="10" fill="#22c55e"/>
-        <rect x="28.336554184629104" y="0" width="75.45711312620782" height="10" fill="#a855f7"/>
-        <rect x="103.79366731083692" y="0" width="76.20633268916308" height="10" fill="#ef4444"/>
+        <rect x="0" y="0" width="28.391504529927225" height="10" fill="#22c55e"/>
+        <rect x="28.391504529927225" y="0" width="75.38987078568246" height="10" fill="#a855f7"/>
+        <rect x="103.7813753156097" y="0" width="76.21862468439032" height="10" fill="#ef4444"/>
       </g>
     </g>
   
@@ -122,7 +122,7 @@
       <text x="18" y="10" class="legend-text">81 drafts</text>
       
       <g transform="translate(90, 0)"><svg width="12" height="12" viewBox="0 0 16 16" fill="#ef4444"><path d="M3.25 1A2.25 2.25 0 001 3.25v9.5A2.25 2.25 0 003.25 15h9.5A2.25 2.25 0 0015 12.75v-9.5A2.25 2.25 0 0012.75 1h-9.5zM2.5 3.25a.75.75 0 01.75-.75h9.5a.75.75 0 01.75.75v9.5a.75.75 0 01-.75.75h-9.5a.75.75 0 01-.75-.75v-9.5zm8.78 3.03a.75.75 0 00-1.06-1.06L8 7.44 5.78 5.22a.75.75 0 00-1.06 1.06L6.94 8.5 4.72 10.72a.75.75 0 101.06 1.06L8 9.56l2.22 2.22a.75.75 0 101.06-1.06L9.06 8.5l2.22-2.22z"/></svg></g>
-      <text x="108" y="10" class="legend-text">2.8k closed</text>
+      <text x="108" y="10" class="legend-text">2.9k closed</text>
     </g>
   </g>
 </svg>
