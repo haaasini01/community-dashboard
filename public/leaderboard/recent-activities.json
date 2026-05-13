@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778551789447,
+  "updatedAt": 1778638528650,
   "groups": [
     [
       "2026-05-05",
@@ -287,6 +287,51 @@
       ]
     ],
     [
+      "2026-05-12",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Enterprise & Institutional Organization Features - Figma UI/UX Mockup Design",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7358 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "star-warrior",
+          "name": null,
+          "title": "Fix - Fix deprecated API and Sass related warnings and errors",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1051",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
+          "points": 1
+        },
+        {
+          "username": "AdityaOP007",
+          "name": null,
+          "title": "Feature - Interactive Circuit Debugging Tools",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+          "points": 1
+        },
+        {
+          "username": "AdityaOP007",
+          "name": null,
+          "title": "Labeled issue #7357 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
       "2026-05-09",
       [
         {
@@ -322,19 +367,19 @@
           "points": 1
         },
         {
-          "username": "aakashgautam-git",
-          "name": null,
-          "title": "Add autocomplete suggestions for advanced search filters",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7352",
-          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
-          "points": 2
-        },
-        {
           "username": "AdityaOP007",
           "name": null,
           "title": "fix - fix element panel overlapping #260",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1049",
           "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+          "points": 2
+        },
+        {
+          "username": "aakashgautam-git",
+          "name": null,
+          "title": "Add autocomplete suggestions for advanced search filters",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7352",
+          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
           "points": 2
         }
       ]
@@ -414,22 +459,6 @@
           "points": 2
         },
         {
-          "username": "aakashgautam-git",
-          "name": null,
-          "title": "Add scrollbar support to simulator sidebar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1050",
-          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
-          "points": 2
-        },
-        {
-          "username": "aakashgautam-git",
-          "name": null,
-          "title": "Add scrollbar support to simulator sidebar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7355",
-          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
-          "points": 2
-        },
-        {
           "username": "AdityaOP007",
           "name": null,
           "title": "Add vertical scrollbar to simulator sidebar in circuit elements pannel",
@@ -443,6 +472,22 @@
           "title": "fix scrollbar to side bar in simulator elements pannel",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7353",
           "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+          "points": 2
+        },
+        {
+          "username": "aakashgautam-git",
+          "name": null,
+          "title": "Add scrollbar support to simulator sidebar",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1050",
+          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
+          "points": 2
+        },
+        {
+          "username": "aakashgautam-git",
+          "name": null,
+          "title": "Add scrollbar support to simulator sidebar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7355",
+          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
           "points": 2
         }
       ]
