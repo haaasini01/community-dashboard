@@ -1,6 +1,91 @@
 {
-  "updatedAt": 1778983923638,
+  "updatedAt": 1779071568502,
   "groups": [
+    [
+      "2026-05-17",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature - Alter Groups table to add organization_id for classroom nesting (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature - Introduce core Organization database table and model (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7368 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7369 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Feature - Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Labeled issue #1058 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Migrate to Kotlin DSL",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/596",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 1
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Migrate to using Material 3",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/595",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 1
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Migrate to Riverpod State Management",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 1
+        },
+        {
+          "username": "star-warrior",
+          "name": null,
+          "title": "fix - resolve sass deprecation and vue html warning issues",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1057",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-05-16",
       [
@@ -655,27 +740,6 @@
           "title": "chore - add postinstall hook for percy setup",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7344",
           "avatar_url": "https://avatars.githubusercontent.com/u/266815032?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-05-04",
-      [
-        {
-          "username": "sahiladit",
-          "name": null,
-          "title": "🐞 Bug - Image upload in simulator fails due to Imgur API error",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159920447?v=4",
-          "points": 1
-        },
-        {
-          "username": "sahiladit",
-          "name": null,
-          "title": "Labeled issue #7342 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159920447?v=4",
           "points": 2
         }
       ]

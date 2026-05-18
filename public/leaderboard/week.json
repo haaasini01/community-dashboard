@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1778983923631,
-  "startDate": "2026-05-10",
-  "endDate": "2026-05-17",
+  "updatedAt": 1779071568493,
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-18",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,21 +11,21 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 18,
+      "total_points": 24,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        },
         "PR merged": {
           "count": 1,
           "points": 5
         },
         "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
           "count": 2,
           "points": 4
         },
@@ -35,6 +35,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-17",
+          "count": 4,
+          "points": 6
+        },
         {
           "date": "2026-05-16",
           "count": 1,
@@ -52,6 +57,34 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T17:08:10Z",
+          "title": "Feature - Alter Groups table to add organization_id for classroom nesting (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T17:02:50Z",
+          "title": "Feature - Introduce core Organization database table and model (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-17T17:02:51Z",
+          "title": "Labeled issue #7368 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-17T17:08:11Z",
+          "title": "Labeled issue #7369 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "points": 2
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-05-16T05:56:06Z",
@@ -242,31 +275,124 @@
       ]
     },
     {
-      "username": "Saurabhtbj1201",
+      "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/147180839?u=617125d28f6b4587507f97149bd79af95da0a3dd&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 4,
+      "total_points": 6,
       "activity_breakdown": {
-        "Review submitted": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
           "count": 1,
-          "points": 4
+          "points": 2
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-05-10",
-          "count": 1,
-          "points": 4
+          "date": "2026-05-17",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-05-15",
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
         {
-          "type": "Review submitted",
-          "occured_at": "2026-05-10T07:53:35Z",
-          "title": "Review on PR #7347",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7347",
-          "points": 4
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T15:01:52Z",
+          "title": "Feature - Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-17T15:01:54Z",
+          "title": "Labeled issue #1058 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-15T16:05:12Z",
+          "title": "refactor - migrate verilog terminal from window global + DOM to Pinia synthesisStore",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1055",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-15T15:27:15Z",
+          "title": "refactor - Migrate Verilog terminal output from window global + DOM to Pinia store",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1054",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "SantamRC",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-17",
+          "count": 3,
+          "points": 3
+        },
+        {
+          "date": "2026-05-11",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T09:19:14Z",
+          "title": "Migrate to Kotlin DSL",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/596",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T09:14:04Z",
+          "title": "Migrate to using Material 3",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/595",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T09:10:51Z",
+          "title": "Migrate to Riverpod State Management",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-11T14:42:06Z",
+          "title": "chore - upgraded dependencies",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/593",
+          "points": 2
         }
       ]
     },
@@ -307,9 +433,9 @@
       ]
     },
     {
-      "username": "Me-Priyank",
+      "username": "star-warrior",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
       "role": "Contributor",
       "total_points": 3,
       "activity_breakdown": {
@@ -324,94 +450,30 @@
       },
       "daily_activity": [
         {
-          "date": "2026-05-15",
-          "count": 2,
-          "points": 3
+          "date": "2026-05-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-05-12",
+          "count": 1,
+          "points": 1
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-05-15T16:05:12Z",
-          "title": "refactor - migrate verilog terminal from window global + DOM to Pinia synthesisStore",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1055",
+          "occured_at": "2026-05-17T07:41:30Z",
+          "title": "fix - resolve sass deprecation and vue html warning issues",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1057",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-05-15T15:27:15Z",
-          "title": "refactor - Migrate Verilog terminal output from window global + DOM to Pinia store",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1054",
+          "occured_at": "2026-05-12T08:08:56Z",
+          "title": "Fix - Fix deprecated API and Sass related warnings and errors",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1051",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "satu0king",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
-      "role": "Maintainer",
-      "total_points": 3,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-10",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-10T07:26:43Z",
-          "title": "🛑 Docs is down",
-          "link": "https://github.com/CircuitVerse/upptime/issues/179",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-10T07:26:44Z",
-          "title": "Labeled issue #179 - status",
-          "link": "https://github.com/CircuitVerse/upptime/issues/179",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "SantamRC",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-11",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-11T14:42:06Z",
-          "title": "chore - upgraded dependencies",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/593",
-          "points": 2
         }
       ]
     },
@@ -476,35 +538,6 @@
           "occured_at": "2026-05-16T05:56:07Z",
           "title": "Closed issue #7362 - 🐞 Bug - bundler-audit CI failing on all PRs due to vulnerable dependencies",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "star-warrior",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-12",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-12T08:08:56Z",
-          "title": "Fix - Fix deprecated API and Sass related warnings and errors",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1051",
           "points": 1
         }
       ]
