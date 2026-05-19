@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1779071568482,
-  "lastFetchedAt": 1779071568482,
-  "startDate": "2025-05-18",
-  "endDate": "2026-05-18",
+  "updatedAt": 1779157907156,
+  "lastFetchedAt": 1779157907156,
+  "startDate": "2025-05-19",
+  "endDate": "2026-05-19",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -12,8 +12,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 606,
+      "total_points": 608,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 62,
+          "points": 124
+        },
         "Issue opened": {
           "count": 56,
           "points": 56
@@ -26,10 +30,6 @@
           "count": 24,
           "points": 120
         },
-        "PR opened": {
-          "count": 61,
-          "points": 122
-        },
         "Issue closed": {
           "count": 36,
           "points": 36
@@ -40,6 +40,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-18",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-05-17",
           "count": 4,
@@ -477,6 +482,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-18T10:06:52Z",
+          "title": "feat - add organization and group database foundation for enterprise classroom management",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-05-17T17:08:10Z",
@@ -11762,19 +11774,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 233,
+      "total_points": 236,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 36,
+          "points": 72
+        },
         "Issue opened": {
-          "count": 28,
-          "points": 28
+          "count": 29,
+          "points": 29
         },
         "Issue labeled": {
           "count": 15,
           "points": 30
-        },
-        "PR opened": {
-          "count": 35,
-          "points": 70
         },
         "PR merged": {
           "count": 21,
@@ -11782,6 +11794,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-18",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-05-17",
           "count": 2,
@@ -11974,6 +11991,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-18T03:42:25Z",
+          "title": "Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1060",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-18T03:40:33Z",
+          "title": "refactor - migrate Tauri environment detection from internals to official isTauri API",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1059",
+          "points": 1
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-05-17T15:01:52Z",

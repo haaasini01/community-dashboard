@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1779071568493,
-  "startDate": "2026-05-11",
-  "endDate": "2026-05-18",
+  "updatedAt": 1779157907171,
+  "startDate": "2026-05-12",
+  "endDate": "2026-05-19",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,8 +11,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 26,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
         "Issue opened": {
           "count": 4,
           "points": 4
@@ -25,16 +29,17 @@
           "count": 1,
           "points": 5
         },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
         "Issue closed": {
           "count": 3,
           "points": 3
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-18",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-05-17",
           "count": 4,
@@ -57,6 +62,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-18T10:06:52Z",
+          "title": "feat - add organization and group database foundation for enterprise classroom management",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-05-17T17:08:10Z",
@@ -158,65 +170,84 @@
       ]
     },
     {
-      "username": "AdityaOP007",
+      "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 7,
+      "total_points": 9,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 3,
+          "points": 3
         },
         "Issue labeled": {
           "count": 1,
           "points": 2
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-05-12",
+          "date": "2026-05-18",
           "count": 2,
           "points": 3
         },
         {
-          "date": "2026-05-11",
+          "date": "2026-05-17",
           "count": 2,
-          "points": 4
+          "points": 3
+        },
+        {
+          "date": "2026-05-15",
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
         {
+          "type": "PR opened",
+          "occured_at": "2026-05-18T03:42:25Z",
+          "title": "Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1060",
+          "points": 2
+        },
+        {
           "type": "Issue opened",
-          "occured_at": "2026-05-12T13:23:37Z",
-          "title": "Feature - Interactive Circuit Debugging Tools",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "occured_at": "2026-05-18T03:40:33Z",
+          "title": "refactor - migrate Tauri environment detection from internals to official isTauri API",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1059",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T15:01:52Z",
+          "title": "Feature - Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-05-12T13:23:39Z",
-          "title": "Labeled issue #7357 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "occured_at": "2026-05-17T15:01:54Z",
+          "title": "Labeled issue #1058 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-05-11T12:54:42Z",
-          "title": "Add vertical scrollbar to simulator sidebar in circuit elements pannel",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7354",
+          "occured_at": "2026-05-15T16:05:12Z",
+          "title": "refactor - migrate verilog terminal from window global + DOM to Pinia synthesisStore",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1055",
           "points": 2
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-05-11T12:30:50Z",
-          "title": "fix scrollbar to side bar in simulator elements pannel",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7353",
-          "points": 2
+          "type": "Issue opened",
+          "occured_at": "2026-05-15T15:27:15Z",
+          "title": "refactor - Migrate Verilog terminal output from window global + DOM to Pinia store",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1054",
+          "points": 1
         }
       ]
     },
@@ -275,82 +306,15 @@
       ]
     },
     {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-17",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-05-15",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-17T15:01:52Z",
-          "title": "Feature - Introduce Client-Side Verilog Synthesis via Web Worker for Tauri Desktop",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-17T15:01:54Z",
-          "title": "Labeled issue #1058 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1058",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-15T16:05:12Z",
-          "title": "refactor - migrate verilog terminal from window global + DOM to Pinia synthesisStore",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1055",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-15T15:27:15Z",
-          "title": "refactor - Migrate Verilog terminal output from window global + DOM to Pinia store",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1054",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "SantamRC",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
       "role": "Contributor",
-      "total_points": 5,
+      "total_points": 3,
       "activity_breakdown": {
         "Issue opened": {
           "count": 3,
           "points": 3
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
         }
       },
       "daily_activity": [
@@ -358,11 +322,6 @@
           "date": "2026-05-17",
           "count": 3,
           "points": 3
-        },
-        {
-          "date": "2026-05-11",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -386,49 +345,6 @@
           "title": "Migrate to Riverpod State Management",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
           "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-11T14:42:06Z",
-          "title": "chore - upgraded dependencies",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/593",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "aakashgautam-git",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-11",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-11T19:28:57Z",
-          "title": "Add scrollbar support to simulator sidebar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1050",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-11T19:14:01Z",
-          "title": "Add scrollbar support to simulator sidebar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7355",
-          "points": 2
         }
       ]
     },
@@ -474,6 +390,46 @@
           "title": "Fix - Fix deprecated API and Sass related warnings and errors",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1051",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "AdityaOP007",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-12",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-12T13:23:37Z",
+          "title": "Feature - Interactive Circuit Debugging Tools",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-12T13:23:39Z",
+          "title": "Labeled issue #7357 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
+          "points": 2
         }
       ]
     },
