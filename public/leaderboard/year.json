@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1779157907156,
-  "lastFetchedAt": 1779157907156,
-  "startDate": "2025-05-19",
-  "endDate": "2026-05-19",
+  "updatedAt": 1779244307359,
+  "lastFetchedAt": 1779244307359,
+  "startDate": "2025-05-20",
+  "endDate": "2026-05-20",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -12,19 +12,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 608,
+      "total_points": 613,
       "activity_breakdown": {
         "PR opened": {
-          "count": 62,
-          "points": 124
+          "count": 63,
+          "points": 126
         },
         "Issue opened": {
-          "count": 56,
-          "points": 56
+          "count": 57,
+          "points": 57
         },
         "Issue labeled": {
-          "count": 36,
-          "points": 72
+          "count": 37,
+          "points": 74
         },
         "PR merged": {
           "count": 24,
@@ -40,6 +40,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-19",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-05-18",
           "count": 1,
@@ -482,6 +487,27 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-19T09:45:33Z",
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-19T09:22:31Z",
+          "title": "🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-19T09:22:33Z",
+          "title": "Labeled issue #7374 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-05-18T10:06:52Z",

@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1779157907171,
-  "startDate": "2026-05-12",
-  "endDate": "2026-05-19",
+  "updatedAt": 1779244307375,
+  "startDate": "2026-05-13",
+  "endDate": "2026-05-20",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,11 +11,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 26,
+      "total_points": 28,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "Issue opened": {
           "count": 4,
@@ -36,6 +36,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-05-19",
+          "count": 3,
+          "points": 5
+        },
+        {
           "date": "2026-05-18",
           "count": 1,
           "points": 2
@@ -54,14 +59,30 @@
           "date": "2026-05-15",
           "count": 7,
           "points": 10
-        },
-        {
-          "date": "2026-05-12",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-19T09:45:33Z",
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-19T09:22:31Z",
+          "title": "🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-19T09:22:33Z",
+          "title": "Labeled issue #7374 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-05-18T10:06:52Z",
@@ -152,20 +173,6 @@
           "title": "Closed issue #536 - How to Create Your Dream Bedroom with the Right Furniture",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/536",
           "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-12T17:33:22Z",
-          "title": "Enterprise & Institutional Organization Features - Figma UI/UX Mockup Design",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-12T17:33:23Z",
-          "title": "Labeled issue #7358 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
-          "points": 2
         }
       ]
     },
@@ -353,15 +360,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
       "role": "Contributor",
-      "total_points": 3,
+      "total_points": 2,
       "activity_breakdown": {
         "PR opened": {
           "count": 1,
           "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
         }
       },
       "daily_activity": [
@@ -369,11 +372,6 @@
           "date": "2026-05-17",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-05-12",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
@@ -382,53 +380,6 @@
           "occured_at": "2026-05-17T07:41:30Z",
           "title": "fix - resolve sass deprecation and vue html warning issues",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1057",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-12T08:08:56Z",
-          "title": "Fix - Fix deprecated API and Sass related warnings and errors",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1051",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "AdityaOP007",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-12",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-12T13:23:37Z",
-          "title": "Feature - Interactive Circuit Debugging Tools",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-12T13:23:39Z",
-          "title": "Labeled issue #7357 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7357",
           "points": 2
         }
       ]

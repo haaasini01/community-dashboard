@@ -1,6 +1,35 @@
 {
-  "updatedAt": 1779157907177,
+  "updatedAt": 1779244307381,
   "groups": [
+    [
+      "2026-05-19",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7374 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-05-18",
       [
@@ -463,27 +492,6 @@
           "title": "Add scrollbar support to simulator sidebar",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7355",
           "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-05-06",
-      [
-        {
-          "username": "SantamRC",
-          "name": null,
-          "title": "Upgrade Dependencies and Breaking CI Workflows",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/590",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-          "points": 2
-        },
-        {
-          "username": "harunosakura030303-maker",
-          "name": null,
-          "title": "chore - add postinstall hook for percy setup",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7344",
-          "avatar_url": "https://avatars.githubusercontent.com/u/266815032?v=4",
           "points": 2
         }
       ]
