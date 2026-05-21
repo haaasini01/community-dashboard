@@ -1,28 +1,296 @@
 {
   "period": "month",
-  "updatedAt": 1779244307377,
-  "startDate": "2026-04-20",
-  "endDate": "2026-05-20",
+  "updatedAt": 1779330758000,
+  "startDate": "2026-04-21",
+  "endDate": "2026-05-21",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
+    {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 50,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
+        "PR opened": {
+          "count": 7,
+          "points": 14
+        },
+        "Issue opened": {
+          "count": 6,
+          "points": 6
+        },
+        "Issue labeled": {
+          "count": 6,
+          "points": 12
+        },
+        "Issue closed": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-21",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-05-19",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-05-18",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-05-17",
+          "count": 4,
+          "points": 6
+        },
+        {
+          "date": "2026-05-16",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-05-15",
+          "count": 7,
+          "points": 10
+        },
+        {
+          "date": "2026-05-12",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-05-05",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-04-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-04-22",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-04-21",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-21T00:42:06Z",
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-19T09:45:33Z",
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-19T09:22:31Z",
+          "title": "🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-19T09:22:33Z",
+          "title": "Labeled issue #7374 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-18T10:06:52Z",
+          "title": "feat - add organization and group database foundation for enterprise classroom management",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T17:08:10Z",
+          "title": "Feature - Alter Groups table to add organization_id for classroom nesting (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-17T17:02:50Z",
+          "title": "Feature - Introduce core Organization database table and model (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-17T17:02:51Z",
+          "title": "Labeled issue #7368 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-17T17:08:11Z",
+          "title": "Labeled issue #7369 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-16T05:56:06Z",
+          "title": "Fix vulnerable dependencies flagged by bundler-audit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7363",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-15T20:50:31Z",
+          "title": "Fix vulnerable dependencies flagged by bundler-audit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7363",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-15T19:41:14Z",
+          "title": "Fix N+1 query on collaborations in Users - - CircuitverseController#index",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7359",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-15T20:42:40Z",
+          "title": "🐞 Bug - bundler-audit CI failing on all PRs due to vulnerable dependencies",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-15T20:42:42Z",
+          "title": "Labeled issue #7362 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-15T20:04:34Z",
+          "title": "Closed issue #7361 - Fix inconsistent use of user.admin vs user.admin? in ProjectPolicy",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7361",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-15T14:16:51Z",
+          "title": "Closed issue #537 - How to Create Your Dream Bedroom with the Right Furniture",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/537",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-15T14:17:24Z",
+          "title": "Closed issue #536 - How to Create Your Dream Bedroom with the Right Furniture",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/536",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-12T17:33:22Z",
+          "title": "Enterprise & Institutional Organization Features - Figma UI/UX Mockup Design",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-12T17:33:23Z",
+          "title": "Labeled issue #7358 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-05T12:59:02Z",
+          "title": "fix - bump tauri dependencies to resolve build failure",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1044",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-05T12:51:06Z",
+          "title": "🐞 Bug - Tauri build failure (tauri-runtime-wry)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1043",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-05T12:51:08Z",
+          "title": "Labeled issue #1043 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1043",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-04-25T12:07:03Z",
+          "title": "fix - resolve statement timeouts and n+1 on avo project index pages",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7336",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-04-22T03:30:20Z",
+          "title": "fix - replace removed devise_error_messages! in confirmation view",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7324",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-04-21T18:20:09Z",
+          "title": "fix - replace removed devise_error_messages! in confirmation view",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7324",
+          "points": 2
+        }
+      ]
+    },
     {
       "username": "tachyons",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 75,
+      "total_points": 34,
       "activity_breakdown": {
         "Issue closed": {
-          "count": 71,
-          "points": 71
+          "count": 32,
+          "points": 32
         },
-        "Review submitted": {
+        "Issue labeled": {
           "count": 1,
-          "points": 4
+          "points": 2
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-21",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-05-16",
           "count": 1,
@@ -47,14 +315,23 @@
           "date": "2026-04-21",
           "count": 2,
           "points": 2
-        },
-        {
-          "date": "2026-04-20",
-          "count": 41,
-          "points": 44
         }
       ],
       "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-21T00:42:07Z",
+          "title": "Closed issue #7374 - 🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-21T00:49:01Z",
+          "title": "Labeled issue #7262 - good first issue",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7262",
+          "points": 2
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-05-16T05:56:07Z",
@@ -271,556 +548,6 @@
           "title": "Closed issue #7250 - 🐞 Bug - Docker setup fails with \"Port 3036 is already in use\" due to Vite starting twice",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7250",
           "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-04-20T15:01:46Z",
-          "title": "Review on PR #7088",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7088",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:57Z",
-          "title": "Closed issue #7302 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7302",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:42Z",
-          "title": "Closed issue #7298 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - No such file or directory (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7298",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:43Z",
-          "title": "Closed issue #7307 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7307",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:43Z",
-          "title": "Closed issue #7300 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7300",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:41Z",
-          "title": "Closed issue #7296 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - No such file or directory (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7296",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:57Z",
-          "title": "Closed issue #7306 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7306",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:43Z",
-          "title": "Closed issue #7299 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7299",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:42Z",
-          "title": "Closed issue #7297 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - No such file or directory (ActionView - - Template - - Error)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7297",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:39Z",
-          "title": "Closed issue #7291 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is in recovery mode (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7291",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:37Z",
-          "title": "Closed issue #7286 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is in recovery mode (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7286",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:40Z",
-          "title": "Closed issue #7292 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is in recovery mode (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7292",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:39Z",
-          "title": "Closed issue #7290 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7290",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:41Z",
-          "title": "Closed issue #7295 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - No such file or directory (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7295",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:37Z",
-          "title": "Closed issue #7287 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7287",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:38Z",
-          "title": "Closed issue #7289 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7289",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:38Z",
-          "title": "Closed issue #7288 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7288",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:40Z",
-          "title": "Closed issue #7293 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7293",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:41Z",
-          "title": "Closed issue #7294 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - No such file or directory (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7294",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:35Z",
-          "title": "Closed issue #7281 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7281",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:35Z",
-          "title": "Closed issue #7282 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7282",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:34Z",
-          "title": "Closed issue #7274 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7274",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:56Z",
-          "title": "Closed issue #7279 - ActiveRecord - - StatementInvalid - PG - - DiskFull - ERROR - could not write init file - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7279",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:25Z",
-          "title": "Closed issue #7278 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.4\" - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7278",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:35Z",
-          "title": "Closed issue #7280 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7280",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:36Z",
-          "title": "Closed issue #7284 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7284",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:36Z",
-          "title": "Closed issue #7283 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is not yet accepting connections (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7283",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:37Z",
-          "title": "Closed issue #7285 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - the database system is in recovery mode (ActionView - - Template - - Error)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7285",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:24Z",
-          "title": "Closed issue #7277 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.4\" - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7277",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:56Z",
-          "title": "Closed issue #7267 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7267",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:33Z",
-          "title": "Closed issue #7273 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7273",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:23Z",
-          "title": "Closed issue #7271 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.4\" - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7271",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:55Z",
-          "title": "Closed issue #7266 - ActiveRecord - - ConnectionFailed - PQconsumeInput() server closed the connection unexpectedly (ActiveRecord - - ConnectionFailed)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7266",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:23Z",
-          "title": "Closed issue #7269 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.4\" - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7269",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:34Z",
-          "title": "Closed issue #7275 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7275",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T15:38:12Z",
-          "title": "Closed issue #7259 - Feature Add Commentator related resources to Avo",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7259",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:24Z",
-          "title": "Closed issue #7272 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.4\" - No space left on device (ActiveRecord - - StatementInvalid)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7272",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T15:02:29Z",
-          "title": "Closed issue #7086 - Avo Admin - Add group resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7086",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:55Z",
-          "title": "Closed issue #7151 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7151",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:54:22Z",
-          "title": "Closed issue #7124 - ActiveRecord - - InvalidForeignKey - PG - - ForeignKeyViolation - ERROR - update or delete on table \"users\" violates foreign key constraint \"fk_rails_e5414705d0\" on table \"submission_votes\" (ActiveRecord - - InvalidForeignKey)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7124",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T06:53:55Z",
-          "title": "Closed issue #7163 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7163",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 50,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 7,
-          "points": 14
-        },
-        "Issue opened": {
-          "count": 6,
-          "points": 6
-        },
-        "Issue labeled": {
-          "count": 6,
-          "points": 12
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        },
-        "Issue closed": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-19",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-05-18",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-05-17",
-          "count": 4,
-          "points": 6
-        },
-        {
-          "date": "2026-05-16",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-05-15",
-          "count": 7,
-          "points": 10
-        },
-        {
-          "date": "2026-05-12",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-05-05",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-04-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-04-22",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-04-21",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-04-20",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-19T09:45:33Z",
-          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-19T09:22:31Z",
-          "title": "🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-19T09:22:33Z",
-          "title": "Labeled issue #7374 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-18T10:06:52Z",
-          "title": "feat - add organization and group database foundation for enterprise classroom management",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-17T17:08:10Z",
-          "title": "Feature - Alter Groups table to add organization_id for classroom nesting (GSoC 2026 - Project 6)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-17T17:02:50Z",
-          "title": "Feature - Introduce core Organization database table and model (GSoC 2026 - Project 6)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-17T17:02:51Z",
-          "title": "Labeled issue #7368 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7368",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-17T17:08:11Z",
-          "title": "Labeled issue #7369 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7369",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-16T05:56:06Z",
-          "title": "Fix vulnerable dependencies flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7363",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-15T20:50:31Z",
-          "title": "Fix vulnerable dependencies flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7363",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-15T19:41:14Z",
-          "title": "Fix N+1 query on collaborations in Users - - CircuitverseController#index",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7359",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-15T20:42:40Z",
-          "title": "🐞 Bug - bundler-audit CI failing on all PRs due to vulnerable dependencies",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-15T20:42:42Z",
-          "title": "Labeled issue #7362 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-15T20:04:34Z",
-          "title": "Closed issue #7361 - Fix inconsistent use of user.admin vs user.admin? in ProjectPolicy",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7361",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-15T14:16:51Z",
-          "title": "Closed issue #537 - How to Create Your Dream Bedroom with the Right Furniture",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/537",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-15T14:17:24Z",
-          "title": "Closed issue #536 - How to Create Your Dream Bedroom with the Right Furniture",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/536",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-12T17:33:22Z",
-          "title": "Enterprise & Institutional Organization Features - Figma UI/UX Mockup Design",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-12T17:33:23Z",
-          "title": "Labeled issue #7358 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7358",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-05T12:59:02Z",
-          "title": "fix - bump tauri dependencies to resolve build failure",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1044",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-05T12:51:06Z",
-          "title": "🐞 Bug - Tauri build failure (tauri-runtime-wry)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1043",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-05T12:51:08Z",
-          "title": "Labeled issue #1043 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1043",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-04-25T12:07:03Z",
-          "title": "fix - resolve statement timeouts and n+1 on avo project index pages",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7336",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-04-22T03:30:20Z",
-          "title": "fix - replace removed devise_error_messages! in confirmation view",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7324",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-04-21T18:20:09Z",
-          "title": "fix - replace removed devise_error_messages! in confirmation view",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7324",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-04-20T15:02:27Z",
-          "title": "Groups Add Avo Admin Panel Controllers and Resources for Groups System",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7088",
-          "points": 5
         }
       ]
     },
@@ -933,106 +660,6 @@
       ]
     },
     {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-      "role": "Contributor",
-      "total_points": 18,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue closed": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-15",
-          "count": 4,
-          "points": 6
-        },
-        {
-          "date": "2026-04-21",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-04-20",
-          "count": 3,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-15T11:52:58Z",
-          "title": "Feature Introducing the debugger suite in the vue-simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1053",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-05-15T11:37:12Z",
-          "title": "🐞 Bug - Tauri auth Using deep-link authentication for tauri",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1052",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-15T11:37:13Z",
-          "title": "Labeled issue #1052 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1052",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-15T11:52:59Z",
-          "title": "Labeled issue #1053 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1053",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-04-21T12:05:29Z",
-          "title": "feat - add assigment related resources into Avo dashboard",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7315",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-04-20T15:38:11Z",
-          "title": "Add commentator related resources to Avo",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7260",
-          "points": 5
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T16:19:01Z",
-          "title": "Closed issue #7164 - ActionView - - Template - - Error - Failed to find a resource while rendering the - commontator_thread field. (ActionView - - Template - - Error)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7164",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-04-20T16:19:40Z",
-          "title": "Closed issue #7162 - Avo - - MissingResourceError - Failed to find a resource while rendering the - group_members field. (Avo - - MissingResourceError)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7162",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Me-Priyank",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
@@ -1130,6 +757,76 @@
           "title": "Labeled issue #1042 - 🌟 feature",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1042",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-15",
+          "count": 4,
+          "points": 6
+        },
+        {
+          "date": "2026-04-21",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-15T11:52:58Z",
+          "title": "Feature Introducing the debugger suite in the vue-simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1053",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-05-15T11:37:12Z",
+          "title": "🐞 Bug - Tauri auth Using deep-link authentication for tauri",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1052",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-15T11:37:13Z",
+          "title": "Labeled issue #1052 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1052",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-15T11:52:59Z",
+          "title": "Labeled issue #1053 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1053",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-04-21T12:05:29Z",
+          "title": "feat - add assigment related resources into Avo dashboard",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7315",
+          "points": 5
         }
       ]
     },
@@ -1615,6 +1312,35 @@
       ]
     },
     {
+      "username": "vedant-jain03",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76901313?u=5494d1c2d4646bf1ce4df09c0951f0b6dc47c33a&v=4",
+      "role": "Maintainer",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-20",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-05-20T16:56:19Z",
+          "title": "Review on PR #7370",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "Asrani-Aman",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/96644946?u=0a63041bdb02009db73142160eb13f4fcd0a4209&v=4",
@@ -1744,6 +1470,35 @@
           "occured_at": "2026-05-10T07:26:44Z",
           "title": "Labeled issue #179 - status",
           "link": "https://github.com/CircuitVerse/upptime/issues/179",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Naveen-babu-t",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/182714640?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-20",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-20T23:03:30Z",
+          "title": "chore - add auto labeler workflow (#7258)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7376",
           "points": 2
         }
       ]

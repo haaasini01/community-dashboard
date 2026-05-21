@@ -1,6 +1,35 @@
 {
-  "updatedAt": 1779244307381,
+  "updatedAt": 1779330758004,
   "groups": [
+    [
+      "2026-05-21",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7374 - 🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Labeled issue #7262 - good first issue",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7262",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-05-19",
       [
@@ -336,6 +365,27 @@
       ]
     ],
     [
+      "2026-05-20",
+      [
+        {
+          "username": "vedant-jain03",
+          "name": null,
+          "title": "Review on PR #7370",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "avatar_url": "https://avatars.githubusercontent.com/u/76901313?u=5494d1c2d4646bf1ce4df09c0951f0b6dc47c33a&v=4",
+          "points": 4
+        },
+        {
+          "username": "Naveen-babu-t",
+          "name": null,
+          "title": "chore - add auto labeler workflow (#7258)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7376",
+          "avatar_url": "https://avatars.githubusercontent.com/u/182714640?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
       "2026-05-09",
       [
         {
@@ -425,27 +475,6 @@
           "name": null,
           "title": "fix - prevent cyclic subcircuit dependency in insert dialog",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1046",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-05-07",
-      [
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "🐞 Bug - Cyclic subcircuit dependency not prevented in Insert Subcircuit dialog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1045",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Labeled issue #1045 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1045",
           "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
           "points": 2
         }

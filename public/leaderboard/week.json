@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1779244307375,
-  "startDate": "2026-05-13",
-  "endDate": "2026-05-20",
+  "updatedAt": 1779330757997,
+  "startDate": "2026-05-14",
+  "endDate": "2026-05-21",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,8 +11,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 28,
+      "total_points": 33,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
         "PR opened": {
           "count": 4,
           "points": 8
@@ -25,16 +29,17 @@
           "count": 4,
           "points": 8
         },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
         "Issue closed": {
           "count": 3,
           "points": 3
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-05-21",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-05-19",
           "count": 3,
@@ -62,6 +67,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-21T00:42:06Z",
+          "title": "fix - update devise to v5.0.4 to resolve security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7375",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-05-19T09:45:33Z",
@@ -313,6 +325,87 @@
       ]
     },
     {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Issue closed": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-21",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-05-16",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-21T00:42:07Z",
+          "title": "Closed issue #7374 - 🐞 Bug - Update devise gem to fix CVE-2026-40295 security vulnerability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7374",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-21T00:49:01Z",
+          "title": "Labeled issue #7262 - good first issue",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7262",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-16T05:56:07Z",
+          "title": "Closed issue #7362 - 🐞 Bug - bundler-audit CI failing on all PRs due to vulnerable dependencies",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "vedant-jain03",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76901313?u=5494d1c2d4646bf1ce4df09c0951f0b6dc47c33a&v=4",
+      "role": "Maintainer",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-20",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-05-20T16:56:19Z",
+          "title": "Review on PR #7370",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7370",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "SantamRC",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
@@ -385,6 +478,35 @@
       ]
     },
     {
+      "username": "Naveen-babu-t",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/182714640?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-05-20",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-20T23:03:30Z",
+          "title": "chore - add auto labeler workflow (#7258)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7376",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "furniturezone211",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/284943234?v=4",
@@ -416,35 +538,6 @@
           "occured_at": "2026-05-15T14:06:26Z",
           "title": "How to Create Your Dream Bedroom with the Right Furniture",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/536",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue closed": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-05-16",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-16T05:56:07Z",
-          "title": "Closed issue #7362 - 🐞 Bug - bundler-audit CI failing on all PRs due to vulnerable dependencies",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7362",
           "points": 1
         }
       ]
