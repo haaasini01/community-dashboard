@@ -1,6 +1,123 @@
 {
-  "updatedAt": 1779417263960,
+  "updatedAt": 1779502266392,
   "groups": [
+    [
+      "2026-05-22",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "feat - add organization_members table migration",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7391",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature - Introduce core organization_members database table (GSoC 2026 - Project 6)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7390",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7390 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7390",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7390 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7390",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #597 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #597 - auth",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #596 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/596",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #594 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #594 - state-management",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Labeled issue #595 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/595",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+          "points": 2
+        },
+        {
+          "username": "amrendrasharma1328-a11y",
+          "name": null,
+          "title": "feat - add icons to dark mode toggle button",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/783",
+          "avatar_url": "https://avatars.githubusercontent.com/u/244124972?v=4",
+          "points": 2
+        },
+        {
+          "username": "amrendrasharma1328-a11y",
+          "name": null,
+          "title": "Add icons for Dark mode and GitHub buttons in header",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/782",
+          "avatar_url": "https://avatars.githubusercontent.com/u/244124972?v=4",
+          "points": 1
+        },
+        {
+          "username": "amrendrasharma1328-a11y",
+          "name": null,
+          "title": "Labeled issue #782 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/782",
+          "avatar_url": "https://avatars.githubusercontent.com/u/244124972?v=4",
+          "points": 2
+        },
+        {
+          "username": "Sharan-Sanadi",
+          "name": null,
+          "title": "feat - introduce gamification badges for EOD streaks",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/276",
+          "avatar_url": "https://avatars.githubusercontent.com/u/271757352?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-05-21",
       [
@@ -485,59 +602,6 @@
           "title": "chore - add auto labeler workflow (#7258)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7376",
           "avatar_url": "https://avatars.githubusercontent.com/u/182714640?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-05-09",
-      [
-        {
-          "username": "Asrani-Aman",
-          "name": null,
-          "title": "Review on PR #6996",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6996",
-          "avatar_url": "https://avatars.githubusercontent.com/u/96644946?u=0a63041bdb02009db73142160eb13f4fcd0a4209&v=4",
-          "points": 4
-        },
-        {
-          "username": "aryanndwi123",
-          "name": null,
-          "title": "Review on PR #1046",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1046",
-          "avatar_url": "https://avatars.githubusercontent.com/u/100300789?v=4",
-          "points": 4
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "Chore - Added more Keyboard friendly hotkeys / workflows",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1048",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 2
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "Chore - Moving towards a more keyboard-friendly use",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1047",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 1
-        },
-        {
-          "username": "AdityaOP007",
-          "name": null,
-          "title": "fix - fix element panel overlapping #260",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1049",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190319214?v=4",
-          "points": 2
-        },
-        {
-          "username": "aakashgautam-git",
-          "name": null,
-          "title": "Add autocomplete suggestions for advanced search filters",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7352",
-          "avatar_url": "https://avatars.githubusercontent.com/u/253693237?v=4",
           "points": 2
         }
       ]

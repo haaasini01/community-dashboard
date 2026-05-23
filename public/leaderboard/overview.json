@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779417368283,
+  "updatedAt": 1779502368364,
   "period": "Last_30days",
   "repos": [
     {
@@ -29,19 +29,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1213,
-      "forks": 2025,
+      "stars": 1215,
+      "forks": 2026,
       "current": {
-        "pr_opened": 16,
-        "pr_merged": 4,
-        "issue_created": 10,
-        "currentTotalContribution": 30
+        "pr_opened": 17,
+        "pr_merged": 3,
+        "issue_created": 11,
+        "currentTotalContribution": 31
       },
       "previous": {
-        "pr_merged": 7
+        "pr_merged": 8
       },
       "growth": {
-        "pr_merged": -3
+        "pr_merged": -5
       }
     },
     {
@@ -50,13 +50,13 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 163,
-      "forks": 245,
+      "stars": 164,
+      "forks": 246,
       "current": {
-        "pr_opened": 0,
+        "pr_opened": 1,
         "pr_merged": 1,
-        "issue_created": 0,
-        "currentTotalContribution": 1
+        "issue_created": 1,
+        "currentTotalContribution": 3
       },
       "previous": {
         "pr_merged": 0
@@ -408,12 +408,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/community-dashboard",
       "stars": 12,
-      "forks": 45,
+      "forks": 47,
       "current": {
-        "pr_opened": 0,
+        "pr_opened": 1,
         "pr_merged": 0,
         "issue_created": 0,
-        "currentTotalContribution": 0
+        "currentTotalContribution": 1
       },
       "previous": {
         "pr_merged": 0
