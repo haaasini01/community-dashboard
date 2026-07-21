@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1784513309073,
-  "startDate": "2026-07-13",
-  "endDate": "2026-07-20",
+  "updatedAt": 1784598656969,
+  "startDate": "2026-07-14",
+  "endDate": "2026-07-21",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,11 +11,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
       "role": "Contributor",
-      "total_points": 28,
+      "total_points": 33,
       "activity_breakdown": {
         "PR merged": {
-          "count": 3,
-          "points": 15
+          "count": 4,
+          "points": 20
         },
         "PR opened": {
           "count": 2,
@@ -32,6 +32,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-07-20",
+          "count": 1,
+          "points": 5
+        },
+        {
           "date": "2026-07-18",
           "count": 3,
           "points": 15
@@ -43,6 +48,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-20T16:03:36Z",
+          "title": "Convert data to JSON if its a parameter object",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7631",
+          "points": 5
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-07-18T10:43:17Z",
@@ -123,126 +135,16 @@
       ]
     },
     {
-      "username": "aryan7071",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-      "role": "Contributor",
-      "total_points": 23,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-07-19",
-          "count": 5,
-          "points": 8
-        },
-        {
-          "date": "2026-07-17",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-07-13",
-          "count": 4,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-19T13:32:28Z",
-          "title": "🐞 Bug bundler-audit fails on master due to vulnerable gem versions",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7667",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-19T13:23:52Z",
-          "title": "🐞 Bug FooterLinksComponent spec fails on master when forum feature is enabled",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-19T13:32:30Z",
-          "title": "Labeled issue #7667 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7667",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-19T13:23:53Z",
-          "title": "Labeled issue #7666 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-19T13:23:54Z",
-          "title": "Labeled issue #7666 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-07-17T01:34:33Z",
-          "title": "Dependabot fix",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-07-13T20:24:30Z",
-          "title": "fix - use include instead of match with simple regex in contests_update_deadline_spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-07-13T15:31:08Z",
-          "title": "fix - bump view_component and websocket-driver to resolve known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7644",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-13T18:23:50Z",
-          "title": "🐞 Bug CI lint failing on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-13T18:23:51Z",
-          "title": "Labeled issue #7651 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "tachyons",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
       "total_points": 22,
       "activity_breakdown": {
+        "Issue closed": {
+          "count": 9,
+          "points": 9
+        },
         "PR opened": {
           "count": 2,
           "points": 4
@@ -250,10 +152,6 @@
         "PR merged": {
           "count": 1,
           "points": 5
-        },
-        "Issue closed": {
-          "count": 9,
-          "points": 9
         },
         "Review submitted": {
           "count": 1,
@@ -261,6 +159,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-07-20",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-07-19",
           "count": 1,
@@ -285,14 +188,16 @@
           "date": "2026-07-14",
           "count": 1,
           "points": 1
-        },
-        {
-          "date": "2026-07-13",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-07-20T16:03:38Z",
+          "title": "Closed issue #7444 - 🐞 Bug(vuesim) - Circuit data API returns invalid payload when created from Vue simulator",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7444",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-07-19T14:02:19Z",
@@ -376,13 +281,6 @@
           "title": "Closed issue #1072 - (GSoC'26) Week 5 - Build the Export UI - CodeMirror JSON preview panel, download button, and clipboard copy.",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1072",
           "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-07-13T15:31:09Z",
-          "title": "Closed issue #7636 - 🐞 Bug - Bundler Audit Fails Due to Vulnerable view_component and websocket-driver Dependencies",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7636",
-          "points": 1
         }
       ]
     },
@@ -391,7 +289,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
       "role": "Contributor",
-      "total_points": 20,
+      "total_points": 18,
       "activity_breakdown": {
         "Issue opened": {
           "count": 1,
@@ -404,10 +302,6 @@
         "PR merged": {
           "count": 3,
           "points": 15
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
         }
       },
       "daily_activity": [
@@ -425,11 +319,6 @@
           "date": "2026-07-14",
           "count": 1,
           "points": 5
-        },
-        {
-          "date": "2026-07-13",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -467,13 +356,99 @@
           "title": "feat - update Export Project dialog and import project for canonical support",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1132",
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "aryan7071",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+      "role": "Contributor",
+      "total_points": 15,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-07-20",
+          "count": 1,
+          "points": 2
         },
         {
+          "date": "2026-07-19",
+          "count": 5,
+          "points": 8
+        },
+        {
+          "date": "2026-07-17",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
           "type": "PR opened",
-          "occured_at": "2026-07-13T14:07:05Z",
-          "title": "GSoC26 Phase 1 Report - Structured Format for Saved Circuit Data",
-          "link": "https://github.com/CircuitVerse/Blog/pull/271",
+          "occured_at": "2026-07-20T15:11:38Z",
+          "title": "fix - bump loofah and rails-html-sanitizer to patch known vulnerabilities",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7687",
           "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-19T13:32:28Z",
+          "title": "🐞 Bug bundler-audit fails on master due to vulnerable gem versions",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7667",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-19T13:23:52Z",
+          "title": "🐞 Bug FooterLinksComponent spec fails on master when forum feature is enabled",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-19T13:32:30Z",
+          "title": "Labeled issue #7667 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7667",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-19T13:23:53Z",
+          "title": "Labeled issue #7666 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-19T13:23:54Z",
+          "title": "Labeled issue #7666 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7666",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-17T01:34:33Z",
+          "title": "Dependabot fix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
+          "points": 5
         }
       ]
     },
@@ -482,16 +457,8 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
       "role": "Contributor",
-      "total_points": 15,
+      "total_points": 13,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
         "Issue opened": {
           "count": 2,
           "points": 2
@@ -499,21 +466,43 @@
         "Issue labeled": {
           "count": 2,
           "points": 4
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
         }
       },
       "daily_activity": [
         {
+          "date": "2026-07-20",
+          "count": 2,
+          "points": 3
+        },
+        {
           "date": "2026-07-15",
           "count": 4,
           "points": 10
-        },
-        {
-          "date": "2026-07-13",
-          "count": 3,
-          "points": 5
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-20T05:29:52Z",
+          "title": "🐞 Bug - Panels and toolbar overlap with tabs bar when expanded in v1/v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1149",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-20T05:29:53Z",
+          "title": "Labeled issue #1149 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1149",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-07-15T03:22:29Z",
@@ -540,27 +529,6 @@
           "occured_at": "2026-07-15T03:08:22Z",
           "title": "Labeled issue #1138 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1138",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-07-13T05:34:51Z",
-          "title": "fix - resolve SMTP ArgumentError in development environment (#7648)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7649",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-13T05:05:57Z",
-          "title": "🐞 Bug fix - SMTP settings throw ArgumentError due to mutually exclusive ssl and enable_starttls_auto keys in development",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7648",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-13T05:05:58Z",
-          "title": "Labeled issue #7648 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7648",
           "points": 2
         }
       ]
@@ -654,6 +622,58 @@
       ]
     },
     {
+      "username": "Yana-do-code",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-07-20",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-07-18",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-20T07:17:55Z",
+          "title": "update(forum) - redirecting /forum to the correct destination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7686",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-20T14:15:01Z",
+          "title": "update(forum) - redirecting /forum to the correct destination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7686",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-18T17:46:37Z",
+          "title": "docs(forum) - updated forum link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/540",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Nihal4777",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
@@ -727,6 +747,51 @@
           "title": "Review on PR #272",
           "link": "https://github.com/CircuitVerse/Blog/pull/272",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "Me-Priyank",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-07-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-07-18",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-20T08:19:14Z",
+          "title": "chore(synthesis) - add parity tests for Yosys WASM pipeline output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1150",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-18T16:17:25Z",
+          "title": "feat - introduce reactive Verilog terminal in /v1 using Pinia stores",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1126",
+          "points": 5
         }
       ]
     },
@@ -817,35 +882,6 @@
           "title": "Adding the the mergathon experience",
           "link": "https://github.com/CircuitVerse/Blog/pull/272",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-07-18",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-07-18T16:17:25Z",
-          "title": "feat - introduce reactive Verilog terminal in /v1 using Pinia stores",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1126",
-          "points": 5
         }
       ]
     },
@@ -1061,35 +1097,6 @@
           "title": "bug - Project owner silently added as own collaborator despite warning",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7655",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Yana-do-code",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-07-18",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-07-18T17:46:37Z",
-          "title": "docs(forum) - updated forum link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/540",
-          "points": 2
         }
       ]
     }

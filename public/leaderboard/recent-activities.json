@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784513309083,
+  "updatedAt": 1784598656978,
   "groups": [
     [
       "2026-07-19",
@@ -558,19 +558,19 @@
           "points": 4
         },
         {
-          "username": "magic-peach",
-          "name": null,
-          "title": "feat(groups) - subgroups (teams) within a group",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7632",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
           "username": "ShinichiShi",
           "name": null,
           "title": "Convert data to JSON if its a parameter object",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7631",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "magic-peach",
+          "name": null,
+          "title": "feat(groups) - subgroups (teams) within a group",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7632",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
           "points": 2
         },
         {
@@ -644,6 +644,75 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1127",
           "avatar_url": "https://avatars.githubusercontent.com/u/184974249?v=4",
           "points": 5
+        }
+      ]
+    ],
+    [
+      "2026-07-20",
+      [
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "chore(synthesis) - add parity tests for Yosys WASM pipeline output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1150",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7444 - 🐞 Bug(vuesim) - Circuit data API returns invalid payload when created from Vue simulator",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7444",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Convert data to JSON if its a parameter object",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7631",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "update(forum) - redirecting /forum to the correct destination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7686",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "update(forum) - redirecting /forum to the correct destination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7686",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 5
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - bump loofah and rails-html-sanitizer to patch known vulnerabilities",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7687",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "JituRewar",
+          "name": null,
+          "title": "🐞 Bug - Panels and toolbar overlap with tabs bar when expanded in v1/v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1149",
+          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "points": 1
+        },
+        {
+          "username": "JituRewar",
+          "name": null,
+          "title": "Labeled issue #1149 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1149",
+          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "points": 2
         }
       ]
     ],
@@ -1031,75 +1100,6 @@
           "title": "Labeled issue #7648 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7648",
           "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-07-07",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Remove feature flag active_storage_s3",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7627",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Labeled issue #7627 - good first issue",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7627",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "feat - update Export Project dialog and import project for canonical support",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1132",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Closed issue #1069 - (GSoC'26) Week 2 - Implement Multi-Circuit Project Export and Import",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1069",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Closed issue #1067 - (GSoC'26) Week 1 - Improve and fix canonical.js and importCanonical.js for all circuitElementList types.",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1067",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "salmoneatenbybear",
-          "name": null,
-          "title": "Review on PR #1127",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1127",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177742943?u=7cbde821ec8efe87fd0cf5e8c53581a12a8e5d3c&v=4",
-          "points": 4
-        },
-        {
-          "username": "Saksham-Gupta-GH",
-          "name": null,
-          "title": "Fix oauth duplicate account 7262",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7629",
-          "avatar_url": "https://avatars.githubusercontent.com/u/222087587?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saksham-Gupta-GH",
-          "name": null,
-          "title": "fix - guard against nil data in set_name_project_datum (Fixes #7557)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7628",
-          "avatar_url": "https://avatars.githubusercontent.com/u/222087587?v=4",
           "points": 2
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784513412422,
+  "updatedAt": 1784598757504,
   "period": "Last_30days",
   "repos": [
     {
@@ -32,16 +32,16 @@
       "stars": 1239,
       "forks": 2059,
       "current": {
-        "pr_opened": 46,
-        "pr_merged": 10,
+        "pr_opened": 48,
+        "pr_merged": 12,
         "issue_created": 30,
-        "currentTotalContribution": 86
+        "currentTotalContribution": 90
       },
       "previous": {
-        "pr_merged": 50
+        "pr_merged": 49
       },
       "growth": {
-        "pr_merged": -40
+        "pr_merged": -37
       }
     },
     {
@@ -324,18 +324,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/cv-frontend-vue",
       "stars": 60,
-      "forks": 260,
+      "forks": 259,
       "current": {
-        "pr_opened": 21,
-        "pr_merged": 24,
+        "pr_opened": 22,
+        "pr_merged": 23,
         "issue_created": 16,
         "currentTotalContribution": 61
       },
       "previous": {
-        "pr_merged": 28
+        "pr_merged": 29
       },
       "growth": {
-        "pr_merged": -4
+        "pr_merged": -6
       }
     },
     {
